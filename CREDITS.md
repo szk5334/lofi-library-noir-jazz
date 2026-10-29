@@ -13,12 +13,21 @@ free web radio, not for monetized or video uploads.
 - “I Knew a Guy” by Kevin MacLeod — [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) — [source](https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/I_Knew_a_Guy/)
 - “Backed Vibes Clean” by Kevin MacLeod — [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) — [source](https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Backed_Vibes_Clean_1973/)
 - “As I Figure” by Kevin MacLeod — [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) — [source](https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/As_I_Figure/)
-- “Dances and Dames” by Kevin MacLeod — [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) — [source](https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Dances_and_Dames/)
-- “Investigations” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.filmmusic.io/song/3924-investigations)
+- “Night on the Docks - Piano” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Night on the Docks - Trumpet” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Hard Boiled” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Deadly Roulette” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Just As Soon” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Walking Along” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Spy Glass” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “On the Ground” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Cool Vibes” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Night in Venice” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Covert Affair” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Kool Kats” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Acid Trumpet” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “On the Cool Side” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
 - “gone” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/gone/) — **radio only**
-- “over” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/over/) — **radio only**
-- “then” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/then/) — **radio only**
-- “ataraxy” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/ataraxy/) — **radio only**
 - “winter” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/winter/) — **radio only**
 - “carousel” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/carousel-1/) — **radio only**
 - “Diner Gothic - Bottomless” by Blue Dot Sessions — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Bottomless/) — **radio only**
@@ -29,8 +38,27 @@ free web radio, not for monetized or video uploads.
 - “Neon Lights” by Crowander — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/neon-lights/) — **radio only**
 - “Night Jazz” by Ketsa — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-jazz/)
 - “Jazz For The Rain” by Ketsa — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-rain/)
-- “WitchCraft” by HoliznaCC0 — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://freemusicarchive.org/music/holiznacc0/orphaned-media/witchcraft/)
-- “Strangers” by HoliznaCC0 — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://freemusicarchive.org/music/holiznacc0/orphaned-media/strangers/)
-- “How Can Things Be” by HoliznaCC0 — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://freemusicarchive.org/music/holiznacc0/orphaned-media/how-can-things-be/)
-- “There Ain't Nothin” by HoliznaCC0 — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://freemusicarchive.org/music/holiznacc0/orphaned-media/there-aint-nothin/)
-- “Swingin' Richards” by HoliznaCC0 — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://freemusicarchive.org/music/holiznacc0/orphaned-media/swingin-richards/)
+- “Moil” by Ruskerdax — [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — [source](https://opengameart.org/content/moil)
+- “Rainy Streets” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/attitude/rainy-streets/) — **radio only**
+- “Autumn Nightfall” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/attitude/autumn-nightfall/) — **radio only**
+- “At Nightfall” by Dee Yan-Key — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/2018050740818985/04--Dee_Yan-Key-At_Nightfall/) — **radio only**
+- “night music” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/night-music/) — **radio only**
+- “gloomy sky” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/gloomy-sky/) — **radio only**
+- “Loss” by Dee Yan-Key — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/Crises/01--Dee_Yan-Key-Loss/) — **radio only**
+- “Fragile” by Dee Yan-Key — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/Crises/06--Dee_Yan-Key-Fragile/) — **radio only**
+- “Nights” by Dee Yan-Key — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/Vacation_Days/06-Dee_Yan-Key-Nights/) — **radio only**
+- “Departures (Duet for piano and bass)” by Martijn de Boer (NiGiD) — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://ccmixter.org/files/NiGiD/67282)
+- “Retrospect” by Dee Yan-Key — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/Crises/02--Dee_Yan-Key-Retrospect/) — **radio only**
+- “night sky” by Dee Yan-Key — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/night-sky/) — **radio only**
+- “Little Caesar Bandello” by Lobo Loco — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/my-favorite-jazz-lounge-compilation-remastered/little-caesar-bandello-id-576-remastered/) — **radio only**
+- “Hebetude” by Dee Yan-Key — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/Crises/04--Dee_Yan-Key-Hebetude/) — **radio only**
+- “Absent Enemies” by Martijn de Boer (NiGiD) — [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) — [source](https://ccmixter.org/files/NiGiD/65892) — **radio only**
+- “In my Heart” by Lobo Loco — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/in-my-heart-id-2193/) — **radio only**
+- “Manhattan Skyline” by Lobo Loco — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/my-favorite-jazz-lounge-compilation-remastered/manhattan-skyline-id-761-remastered/) — **radio only**
+- “Cheap Cafe” by Dee Yan-Key — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/Vacation_Days/09-Dee_Yan-Key-Cheap_Cafe/) — **radio only**
+- “reveller” by Dee Yan-Key — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/reveller/) — **radio only**
+- “Lovers Pont” by Lobo Loco — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/lovers-pont-id-2219/) — **radio only**
+- “Fused in Love” by Lobo Loco — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/fused-in-love-id-2192/) — **radio only**
+- “How You are” by Crowander — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/crowander/circles/how-you-are/) — **radio only**
+- “Soulfull” by Crowander — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/crowander/circles/soulfull/) — **radio only**
+- “Slow Ride Blues” by Martijn de Boer (NiGiD) — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://ccmixter.org/files/NiGiD/70786) — **radio only**
