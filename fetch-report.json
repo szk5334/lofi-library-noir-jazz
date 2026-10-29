@@ -1,0 +1,254 @@
+{
+  "summary": {
+    "library": "noir",
+    "listed": 30,
+    "in_library": 30,
+    "downloaded": 30,
+    "failed": 0,
+    "purged": [],
+    "audio_mb": 86.9,
+    "minutes": 108
+  },
+  "tracks": [
+    {
+      "id": "noir:shane-ivers--signs-to-nowhere",
+      "title": "Signs To Nowhere",
+      "artist": "Shane Ivers",
+      "status": "downloaded",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/signs-to-nowhere.mp3",
+      "seconds": 211
+    },
+    {
+      "id": "noir:shane-ivers--streetlight-serenade",
+      "title": "Streetlight Serenade",
+      "artist": "Shane Ivers",
+      "status": "downloaded",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/streetlight-serenade.mp3",
+      "seconds": 174
+    },
+    {
+      "id": "noir:shane-ivers--dark-flashes",
+      "title": "Dark Flashes",
+      "artist": "Shane Ivers",
+      "status": "downloaded",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/dark-flashes.mp3",
+      "seconds": 217
+    },
+    {
+      "id": "noir:shane-ivers--opening-move",
+      "title": "Opening Move",
+      "artist": "Shane Ivers",
+      "status": "downloaded",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/opening-move.mp3",
+      "seconds": 148
+    },
+    {
+      "id": "noir:shane-ivers--what-s-the-angle",
+      "title": "What's The Angle?",
+      "artist": "Shane Ivers",
+      "status": "downloaded",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/whats-the-angle.mp3",
+      "seconds": 160
+    },
+    {
+      "id": "noir:kevin-macleod--night-on-the-docks-sax",
+      "title": "Night on the Docks - Sax",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_Night_on_the_Docks_-_Sax.mp3",
+      "seconds": 174
+    },
+    {
+      "id": "noir:kevin-macleod--i-knew-a-guy",
+      "title": "I Knew a Guy",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_I_Knew_a_Guy.mp3",
+      "seconds": 167
+    },
+    {
+      "id": "noir:kevin-macleod--backed-vibes-clean",
+      "title": "Backed Vibes Clean",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_Backed_Vibes_Clean.mp3",
+      "seconds": 228
+    },
+    {
+      "id": "noir:kevin-macleod--as-i-figure",
+      "title": "As I Figure",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_As_I_Figure.mp3",
+      "seconds": 217
+    },
+    {
+      "id": "noir:kevin-macleod--dances-and-dames",
+      "title": "Dances and Dames",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_Dances_and_Dames.mp3",
+      "seconds": 147
+    },
+    {
+      "id": "noir:kevin-macleod--investigations",
+      "title": "Investigations",
+      "artist": "Kevin MacLeod",
+      "status": "downloaded",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3",
+      "seconds": 94
+    },
+    {
+      "id": "noir:dee-yan-key--gone",
+      "title": "gone",
+      "artist": "Dee Yan-Key",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/X0P9hb3BchQdJnkRDATAREH47nfwMb0WRU1dx3ZG.mp3",
+      "seconds": 221
+    },
+    {
+      "id": "noir:dee-yan-key--over",
+      "title": "over",
+      "artist": "Dee Yan-Key",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/CWWyDZoOGhX5nOYXabbg4aVe0AgvXYQREJ0HiRT4.mp3",
+      "seconds": 269
+    },
+    {
+      "id": "noir:dee-yan-key--then",
+      "title": "then",
+      "artist": "Dee Yan-Key",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/eKrgbxHQeJLqshUH961OEbEV22EpfIzlsBgVX1Sf.mp3",
+      "seconds": 263
+    },
+    {
+      "id": "noir:dee-yan-key--ataraxy",
+      "title": "ataraxy",
+      "artist": "Dee Yan-Key",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/lsNkRNh02cV4j86cUBgLMJP2ayBGPiSJa6exB2KC.mp3",
+      "seconds": 641
+    },
+    {
+      "id": "noir:dee-yan-key--winter",
+      "title": "winter",
+      "artist": "Dee Yan-Key",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/QOJzGH7hQZnTOBgoqkxxeahg0SAESctrQU4wYZv4.mp3",
+      "seconds": 405
+    },
+    {
+      "id": "noir:dee-yan-key--carousel",
+      "title": "carousel",
+      "artist": "Dee Yan-Key",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/n7qnGFuzQz2YgFNxgdbKC5r2CN6MlWDbIXYR2PXu.mp3",
+      "seconds": 350
+    },
+    {
+      "id": "noir:blue-dot-sessions--diner-gothic-bottomless",
+      "title": "Diner Gothic - Bottomless",
+      "artist": "Blue Dot Sessions",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Blue_Dot_Sessions/Diner_Gothic/Blue_Dot_Sessions_-_01_-_Diner_Gothic_-_Bottomless.mp3",
+      "seconds": 193
+    },
+    {
+      "id": "noir:blue-dot-sessions--diner-gothic-intercept",
+      "title": "Diner Gothic - Intercept",
+      "artist": "Blue Dot Sessions",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Blue_Dot_Sessions/Diner_Gothic/Blue_Dot_Sessions_-_04_-_Diner_Gothic_-_Intercept.mp3",
+      "seconds": 192
+    },
+    {
+      "id": "noir:blue-dot-sessions--diner-gothic-closing",
+      "title": "Diner Gothic - Closing",
+      "artist": "Blue Dot Sessions",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Blue_Dot_Sessions/Diner_Gothic/Blue_Dot_Sessions_-_05_-_Diner_Gothic_-_Closing.mp3",
+      "seconds": 121
+    },
+    {
+      "id": "noir:crowander--have-a-smoke",
+      "title": "Have a Smoke",
+      "artist": "Crowander",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/DI4hAcHrt0b63CeWpCoFzA8Bks2gWf6HcnHbhj1P.mp3",
+      "seconds": 263
+    },
+    {
+      "id": "noir:crowander--last-drink",
+      "title": "Last Drink",
+      "artist": "Crowander",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/bxFULK6LO6lpozkPmYhW1BndIYQUDNPYNz2gHnmQ.mp3",
+      "seconds": 298
+    },
+    {
+      "id": "noir:crowander--neon-lights",
+      "title": "Neon Lights",
+      "artist": "Crowander",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/4iy3UgUmdP1fHwOqmvnuROhDYb7jnYMk441uXyDg.mp3",
+      "seconds": 272
+    },
+    {
+      "id": "noir:ketsa--night-jazz",
+      "title": "Night Jazz",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ablvayacORvt0NdELY7NRbzm8lMlXoKoqqdSDKtf.mp3",
+      "seconds": 217
+    },
+    {
+      "id": "noir:ketsa--jazz-for-the-rain",
+      "title": "Jazz For The Rain",
+      "artist": "Ketsa",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/EocS0SSjc1ly4CyiNpblJ8mIPk1EIzVjeWVz4k0d.mp3",
+      "seconds": 204
+    },
+    {
+      "id": "noir:holiznacc0--witchcraft",
+      "title": "WitchCraft",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/YOgheFLsj8CSnMn9g1oc5QWKgWB2PyYxhZyvXa6v.mp3",
+      "seconds": 122
+    },
+    {
+      "id": "noir:holiznacc0--strangers",
+      "title": "Strangers",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/AwdzX9NdHm3S7PhotDrJqgvt5ca8SqIP8pnwRwDE.mp3",
+      "seconds": 92
+    },
+    {
+      "id": "noir:holiznacc0--how-can-things-be",
+      "title": "How Can Things Be",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/BltqybxKC72Z4O2k9QDh30OsJHoX2z5AKbJtqrhs.mp3",
+      "seconds": 149
+    },
+    {
+      "id": "noir:holiznacc0--there-ain-t-nothin",
+      "title": "There Ain't Nothin",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/JTr2rPkSFtRCIGsfbnOEDC1ZZxxp8163v6ECv3S1.mp3",
+      "seconds": 164
+    },
+    {
+      "id": "noir:holiznacc0--swingin-richards",
+      "title": "Swingin' Richards",
+      "artist": "HoliznaCC0",
+      "status": "downloaded",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/3zGwm97BU4IbBgOcge22xSN8BJOkks5j9LmqZ7nT.mp3",
+      "seconds": 134
+    }
+  ]
+}
