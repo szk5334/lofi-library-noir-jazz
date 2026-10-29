@@ -126,30 +126,185 @@
       ]
     },
     {
-      "id": "noir:kevin-macleod--dances-and-dames",
-      "file": "audio/kevin-macleod--dances-and-dames.mp3",
-      "title": "Dances and Dames",
-      "artist": "Kevin MacLeod",
-      "license": "CC BY 3.0",
-      "license_url": "https://creativecommons.org/licenses/by/3.0/",
-      "youtube_ok": true,
-      "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Dances_and_Dames/",
-      "sources": [
-        "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Dances_and_Dames/",
-        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dances%20and%20Dames.mp3"
-      ]
-    },
-    {
-      "id": "noir:kevin-macleod--investigations",
-      "file": "audio/kevin-macleod--investigations.mp3",
-      "title": "Investigations",
+      "id": "noir:kevin-macleod--night-on-the-docks-piano",
+      "file": "audio/kevin-macleod--night-on-the-docks-piano.mp3",
+      "title": "Night on the Docks - Piano",
       "artist": "Kevin MacLeod",
       "license": "CC BY 4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
-      "page": "https://incompetech.filmmusic.io/song/3924-investigations",
+      "page": "https://incompetech.com/music/royalty-free/music.html",
       "sources": [
-        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3"
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20on%20the%20Docks.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--night-on-the-docks-trumpet",
+      "file": "audio/kevin-macleod--night-on-the-docks-trumpet.mp3",
+      "title": "Night on the Docks - Trumpet",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20on%20the%20Docks%20-%20Trumpet.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--hard-boiled",
+      "file": "audio/kevin-macleod--hard-boiled.mp3",
+      "title": "Hard Boiled",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hard%20Boiled.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--deadly-roulette",
+      "file": "audio/kevin-macleod--deadly-roulette.mp3",
+      "title": "Deadly Roulette",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deadly%20Roulette.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--just-as-soon",
+      "file": "audio/kevin-macleod--just-as-soon.mp3",
+      "title": "Just As Soon",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Just%20As%20Soon.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--walking-along",
+      "file": "audio/kevin-macleod--walking-along.mp3",
+      "title": "Walking Along",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Walking%20Along.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--spy-glass",
+      "file": "audio/kevin-macleod--spy-glass.mp3",
+      "title": "Spy Glass",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Spy%20Glass.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--on-the-ground",
+      "file": "audio/kevin-macleod--on-the-ground.mp3",
+      "title": "On the Ground",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/On%20the%20Ground.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--cool-vibes",
+      "file": "audio/kevin-macleod--cool-vibes.mp3",
+      "title": "Cool Vibes",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cool%20Vibes.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--night-in-venice",
+      "file": "audio/kevin-macleod--night-in-venice.mp3",
+      "title": "Night in Venice",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20in%20Venice.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--covert-affair",
+      "file": "audio/kevin-macleod--covert-affair.mp3",
+      "title": "Covert Affair",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Covert%20Affair.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--kool-kats",
+      "file": "audio/kevin-macleod--kool-kats.mp3",
+      "title": "Kool Kats",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Kool%20Kats.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--acid-trumpet",
+      "file": "audio/kevin-macleod--acid-trumpet.mp3",
+      "title": "Acid Trumpet",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/AcidJazz.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--on-the-cool-side",
+      "file": "audio/kevin-macleod--on-the-cool-side.mp3",
+      "title": "On the Cool Side",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/On%20the%20Cool%20Side.mp3"
       ]
     },
     {
@@ -163,45 +318,6 @@
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/gone/",
       "sources": [
         "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/gone/"
-      ]
-    },
-    {
-      "id": "noir:dee-yan-key--over",
-      "file": "audio/dee-yan-key--over.mp3",
-      "title": "over",
-      "artist": "Dee Yan-Key",
-      "license": "CC BY-NC 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
-      "youtube_ok": false,
-      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/over/",
-      "sources": [
-        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/over/"
-      ]
-    },
-    {
-      "id": "noir:dee-yan-key--then",
-      "file": "audio/dee-yan-key--then.mp3",
-      "title": "then",
-      "artist": "Dee Yan-Key",
-      "license": "CC BY-NC 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
-      "youtube_ok": false,
-      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/then/",
-      "sources": [
-        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/then/"
-      ]
-    },
-    {
-      "id": "noir:dee-yan-key--ataraxy",
-      "file": "audio/dee-yan-key--ataraxy.mp3",
-      "title": "ataraxy",
-      "artist": "Dee Yan-Key",
-      "license": "CC BY-NC 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
-      "youtube_ok": false,
-      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/ataraxy/",
-      "sources": [
-        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/ataraxy/"
       ]
     },
     {
@@ -335,68 +451,319 @@
       ]
     },
     {
-      "id": "noir:holiznacc0--witchcraft",
-      "file": "audio/holiznacc0--witchcraft.mp3",
-      "title": "WitchCraft",
-      "artist": "HoliznaCC0",
+      "id": "noir:ruskerdax--moil",
+      "file": "audio/ruskerdax--moil.mp3",
+      "title": "Moil",
+      "artist": "Ruskerdax",
       "license": "CC0 1.0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "youtube_ok": true,
-      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/witchcraft/",
+      "page": "https://opengameart.org/content/moil",
       "sources": [
-        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/witchcraft/"
+        "https://opengameart.org/sites/default/files/ruskerdax_-_moil.mp3",
+        "https://opengameart.org/content/moil"
       ]
     },
     {
-      "id": "noir:holiznacc0--strangers",
-      "file": "audio/holiznacc0--strangers.mp3",
-      "title": "Strangers",
-      "artist": "HoliznaCC0",
-      "license": "CC0 1.0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "youtube_ok": true,
-      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/strangers/",
+      "id": "noir:dee-yan-key--rainy-streets",
+      "file": "audio/dee-yan-key--rainy-streets.mp3",
+      "title": "Rainy Streets",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/attitude/rainy-streets/",
       "sources": [
-        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/strangers/"
+        "https://freemusicarchive.org/music/Dee_Yan-Key/attitude/rainy-streets/"
       ]
     },
     {
-      "id": "noir:holiznacc0--how-can-things-be",
-      "file": "audio/holiznacc0--how-can-things-be.mp3",
-      "title": "How Can Things Be",
-      "artist": "HoliznaCC0",
-      "license": "CC0 1.0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "youtube_ok": true,
-      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/how-can-things-be/",
+      "id": "noir:dee-yan-key--autumn-nightfall",
+      "file": "audio/dee-yan-key--autumn-nightfall.mp3",
+      "title": "Autumn Nightfall",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/attitude/autumn-nightfall/",
       "sources": [
-        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/how-can-things-be/"
+        "https://freemusicarchive.org/music/Dee_Yan-Key/attitude/autumn-nightfall/"
       ]
     },
     {
-      "id": "noir:holiznacc0--there-ain-t-nothin",
-      "file": "audio/holiznacc0--there-ain-t-nothin.mp3",
-      "title": "There Ain't Nothin",
-      "artist": "HoliznaCC0",
-      "license": "CC0 1.0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "youtube_ok": true,
-      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/there-aint-nothin/",
+      "id": "noir:dee-yan-key--at-nightfall",
+      "file": "audio/dee-yan-key--at-nightfall.mp3",
+      "title": "At Nightfall",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/2018050740818985/04--Dee_Yan-Key-At_Nightfall/",
       "sources": [
-        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/there-aint-nothin/"
+        "https://freemusicarchive.org/music/Dee_Yan-Key/2018050740818985/04--Dee_Yan-Key-At_Nightfall/"
       ]
     },
     {
-      "id": "noir:holiznacc0--swingin-richards",
-      "file": "audio/holiznacc0--swingin-richards.mp3",
-      "title": "Swingin' Richards",
-      "artist": "HoliznaCC0",
-      "license": "CC0 1.0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "youtube_ok": true,
-      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/swingin-richards/",
+      "id": "noir:dee-yan-key--night-music",
+      "file": "audio/dee-yan-key--night-music.mp3",
+      "title": "night music",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/night-music/",
       "sources": [
-        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/swingin-richards/"
+        "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/night-music/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--gloomy-sky",
+      "file": "audio/dee-yan-key--gloomy-sky.mp3",
+      "title": "gloomy sky",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/gloomy-sky/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/gloomy-sky/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--loss",
+      "file": "audio/dee-yan-key--loss.mp3",
+      "title": "Loss",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/01--Dee_Yan-Key-Loss/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/01--Dee_Yan-Key-Loss/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--fragile",
+      "file": "audio/dee-yan-key--fragile.mp3",
+      "title": "Fragile",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/06--Dee_Yan-Key-Fragile/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/06--Dee_Yan-Key-Fragile/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--nights",
+      "file": "audio/dee-yan-key--nights.mp3",
+      "title": "Nights",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Vacation_Days/06-Dee_Yan-Key-Nights/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/Vacation_Days/06-Dee_Yan-Key-Nights/"
+      ]
+    },
+    {
+      "id": "noir:martijn-de-boer-nigid--departures-duet-for-piano-and-bass",
+      "file": "audio/martijn-de-boer-nigid--departures-duet-for-piano-and-bass.mp3",
+      "title": "Departures (Duet for piano and bass)",
+      "artist": "Martijn de Boer (NiGiD)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://ccmixter.org/files/NiGiD/67282",
+      "sources": [
+        "https://ccmixter.org/content/NiGiD/NiGiD_-_Departures_(Duet_for_piano_and_bass).mp3",
+        "https://ccmixter.org/files/NiGiD/67282"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--retrospect",
+      "file": "audio/dee-yan-key--retrospect.mp3",
+      "title": "Retrospect",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/02--Dee_Yan-Key-Retrospect/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/02--Dee_Yan-Key-Retrospect/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--night-sky",
+      "file": "audio/dee-yan-key--night-sky.mp3",
+      "title": "night sky",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/night-sky/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/night-sky/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--little-caesar-bandello",
+      "file": "audio/lobo-loco--little-caesar-bandello.mp3",
+      "title": "Little Caesar Bandello",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/my-favorite-jazz-lounge-compilation-remastered/little-caesar-bandello-id-576-remastered/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/my-favorite-jazz-lounge-compilation-remastered/little-caesar-bandello-id-576-remastered/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--hebetude",
+      "file": "audio/dee-yan-key--hebetude.mp3",
+      "title": "Hebetude",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/04--Dee_Yan-Key-Hebetude/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/04--Dee_Yan-Key-Hebetude/"
+      ]
+    },
+    {
+      "id": "noir:martijn-de-boer-nigid--absent-enemies",
+      "file": "audio/martijn-de-boer-nigid--absent-enemies.mp3",
+      "title": "Absent Enemies",
+      "artist": "Martijn de Boer (NiGiD)",
+      "license": "CC BY-NC 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "youtube_ok": false,
+      "page": "https://ccmixter.org/files/NiGiD/65892",
+      "sources": [
+        "https://ccmixter.org/content/NiGiD/NiGiD_-_Absent_Enemies.mp3",
+        "https://ccmixter.org/files/NiGiD/65892"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--in-my-heart",
+      "file": "audio/lobo-loco--in-my-heart.mp3",
+      "title": "In my Heart",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/in-my-heart-id-2193/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/in-my-heart-id-2193/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--manhattan-skyline",
+      "file": "audio/lobo-loco--manhattan-skyline.mp3",
+      "title": "Manhattan Skyline",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/my-favorite-jazz-lounge-compilation-remastered/manhattan-skyline-id-761-remastered/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/my-favorite-jazz-lounge-compilation-remastered/manhattan-skyline-id-761-remastered/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--cheap-cafe",
+      "file": "audio/dee-yan-key--cheap-cafe.mp3",
+      "title": "Cheap Cafe",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Vacation_Days/09-Dee_Yan-Key-Cheap_Cafe/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/Vacation_Days/09-Dee_Yan-Key-Cheap_Cafe/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--reveller",
+      "file": "audio/dee-yan-key--reveller.mp3",
+      "title": "reveller",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/reveller/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/reveller/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--lovers-pont",
+      "file": "audio/lobo-loco--lovers-pont.mp3",
+      "title": "Lovers Pont",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/lovers-pont-id-2219/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/lovers-pont-id-2219/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--fused-in-love",
+      "file": "audio/lobo-loco--fused-in-love.mp3",
+      "title": "Fused in Love",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/fused-in-love-id-2192/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/fused-in-love-id-2192/"
+      ]
+    },
+    {
+      "id": "noir:crowander--how-you-are",
+      "file": "audio/crowander--how-you-are.mp3",
+      "title": "How You are",
+      "artist": "Crowander",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/circles/how-you-are/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/circles/how-you-are/"
+      ]
+    },
+    {
+      "id": "noir:crowander--soulfull",
+      "file": "audio/crowander--soulfull.mp3",
+      "title": "Soulfull",
+      "artist": "Crowander",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/circles/soulfull/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/circles/soulfull/"
+      ]
+    },
+    {
+      "id": "noir:martijn-de-boer-nigid--slow-ride-blues",
+      "file": "audio/martijn-de-boer-nigid--slow-ride-blues.mp3",
+      "title": "Slow Ride Blues",
+      "artist": "Martijn de Boer (NiGiD)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://ccmixter.org/files/NiGiD/70786",
+      "sources": [
+        "https://ccmixter.org/content/NiGiD/NiGiD_-_Slow_Ride_Blues.mp3",
+        "https://ccmixter.org/files/NiGiD/70786"
       ]
     }
   ]

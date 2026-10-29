@@ -60,7 +60,15 @@ def resolve(src, title):
         return fma_audio(src, title)
     if "bandcamp.com" in src:
         return bandcamp_audio(src)
-    return None
+    # ccMixter and other plain pages: take the first .mp3 link on the page.
+    flat = html.unescape(get(src)).replace("\\/", "/")
+    hits = re.findall(r'(https?://[^"\'\s<>]+?\.mp3)', flat)
+    if not hits:
+        rel = re.findall(r'href="(/[^"\s<>]+?\.mp3)"', flat)
+        if rel:
+            from urllib.parse import urljoin
+            hits = [urljoin(src, rel[0])]
+    return hits[0] if hits else None
 
 
 def duration(path):
