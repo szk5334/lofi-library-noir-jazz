@@ -1,0 +1,403 @@
+{
+  "library": "noir",
+  "bitrate": "112k",
+  "tracks": [
+    {
+      "id": "noir:shane-ivers--signs-to-nowhere",
+      "file": "audio/shane-ivers--signs-to-nowhere.mp3",
+      "title": "Signs To Nowhere",
+      "artist": "Shane Ivers",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://www.silvermansound.com/free-music/signs-to-nowhere",
+      "sources": [
+        "https://www.silvermansound.com/wp-content/uploads/signs-to-nowhere.mp3",
+        "https://freemusicarchive.org/music/shane-ivers/single/signs-to-nowhere/"
+      ]
+    },
+    {
+      "id": "noir:shane-ivers--streetlight-serenade",
+      "file": "audio/shane-ivers--streetlight-serenade.mp3",
+      "title": "Streetlight Serenade",
+      "artist": "Shane Ivers",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://www.silvermansound.com/free-music/streetlight-serenade",
+      "sources": [
+        "https://www.silvermansound.com/wp-content/uploads/streetlight-serenade.mp3"
+      ]
+    },
+    {
+      "id": "noir:shane-ivers--dark-flashes",
+      "file": "audio/shane-ivers--dark-flashes.mp3",
+      "title": "Dark Flashes",
+      "artist": "Shane Ivers",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://www.silvermansound.com/free-music/dark-flashes",
+      "sources": [
+        "https://www.silvermansound.com/wp-content/uploads/dark-flashes.mp3"
+      ]
+    },
+    {
+      "id": "noir:shane-ivers--opening-move",
+      "file": "audio/shane-ivers--opening-move.mp3",
+      "title": "Opening Move",
+      "artist": "Shane Ivers",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://www.silvermansound.com/free-music/opening-move",
+      "sources": [
+        "https://www.silvermansound.com/wp-content/uploads/opening-move.mp3"
+      ]
+    },
+    {
+      "id": "noir:shane-ivers--what-s-the-angle",
+      "file": "audio/shane-ivers--what-s-the-angle.mp3",
+      "title": "What's The Angle?",
+      "artist": "Shane Ivers",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://www.silvermansound.com/free-music/whats-the-angle",
+      "sources": [
+        "https://www.silvermansound.com/wp-content/uploads/whats-the-angle.mp3",
+        "https://freemusicarchive.org/music/shane-ivers/single/whats-the-angle/"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--night-on-the-docks-sax",
+      "file": "audio/kevin-macleod--night-on-the-docks-sax.mp3",
+      "title": "Night on the Docks - Sax",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Night_on_the_Docks_-_Sax/",
+      "sources": [
+        "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Night_on_the_Docks_-_Sax/",
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20on%20the%20Docks%20-%20Sax.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--i-knew-a-guy",
+      "file": "audio/kevin-macleod--i-knew-a-guy.mp3",
+      "title": "I Knew a Guy",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/I_Knew_a_Guy/",
+      "sources": [
+        "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/I_Knew_a_Guy/",
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/I%20Knew%20a%20Guy.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--backed-vibes-clean",
+      "file": "audio/kevin-macleod--backed-vibes-clean.mp3",
+      "title": "Backed Vibes Clean",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Backed_Vibes_Clean_1973/",
+      "sources": [
+        "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Backed_Vibes_Clean_1973/",
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Backed%20Vibes%20Clean.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--as-i-figure",
+      "file": "audio/kevin-macleod--as-i-figure.mp3",
+      "title": "As I Figure",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/As_I_Figure/",
+      "sources": [
+        "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/As_I_Figure/",
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/As%20I%20Figure.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--dances-and-dames",
+      "file": "audio/kevin-macleod--dances-and-dames.mp3",
+      "title": "Dances and Dames",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Dances_and_Dames/",
+      "sources": [
+        "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Dances_and_Dames/",
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dances%20and%20Dames.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--investigations",
+      "file": "audio/kevin-macleod--investigations.mp3",
+      "title": "Investigations",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.filmmusic.io/song/3924-investigations",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--gone",
+      "file": "audio/dee-yan-key--gone.mp3",
+      "title": "gone",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/gone/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/gone/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--over",
+      "file": "audio/dee-yan-key--over.mp3",
+      "title": "over",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/over/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/over/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--then",
+      "file": "audio/dee-yan-key--then.mp3",
+      "title": "then",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/then/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/then/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--ataraxy",
+      "file": "audio/dee-yan-key--ataraxy.mp3",
+      "title": "ataraxy",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/ataraxy/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/ataraxy/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--winter",
+      "file": "audio/dee-yan-key--winter.mp3",
+      "title": "winter",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/winter/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/winter/"
+      ]
+    },
+    {
+      "id": "noir:dee-yan-key--carousel",
+      "file": "audio/dee-yan-key--carousel.mp3",
+      "title": "carousel",
+      "artist": "Dee Yan-Key",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/carousel-1/",
+      "sources": [
+        "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/carousel-1/"
+      ]
+    },
+    {
+      "id": "noir:blue-dot-sessions--diner-gothic-bottomless",
+      "file": "audio/blue-dot-sessions--diner-gothic-bottomless.mp3",
+      "title": "Diner Gothic - Bottomless",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Bottomless/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Bottomless/"
+      ]
+    },
+    {
+      "id": "noir:blue-dot-sessions--diner-gothic-intercept",
+      "file": "audio/blue-dot-sessions--diner-gothic-intercept.mp3",
+      "title": "Diner Gothic - Intercept",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Intercept/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Intercept/"
+      ]
+    },
+    {
+      "id": "noir:blue-dot-sessions--diner-gothic-closing",
+      "file": "audio/blue-dot-sessions--diner-gothic-closing.mp3",
+      "title": "Diner Gothic - Closing",
+      "artist": "Blue Dot Sessions",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Closing/",
+      "sources": [
+        "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Closing/"
+      ]
+    },
+    {
+      "id": "noir:crowander--have-a-smoke",
+      "file": "audio/crowander--have-a-smoke.mp3",
+      "title": "Have a Smoke",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/have-a-smoke/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/have-a-smoke/"
+      ]
+    },
+    {
+      "id": "noir:crowander--last-drink",
+      "file": "audio/crowander--last-drink.mp3",
+      "title": "Last Drink",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/last-drink/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/last-drink/"
+      ]
+    },
+    {
+      "id": "noir:crowander--neon-lights",
+      "file": "audio/crowander--neon-lights.mp3",
+      "title": "Neon Lights",
+      "artist": "Crowander",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/neon-lights/",
+      "sources": [
+        "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/neon-lights/"
+      ]
+    },
+    {
+      "id": "noir:ketsa--night-jazz",
+      "file": "audio/ketsa--night-jazz.mp3",
+      "title": "Night Jazz",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-jazz/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-jazz/"
+      ]
+    },
+    {
+      "id": "noir:ketsa--jazz-for-the-rain",
+      "file": "audio/ketsa--jazz-for-the-rain.mp3",
+      "title": "Jazz For The Rain",
+      "artist": "Ketsa",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-rain/",
+      "sources": [
+        "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-rain/"
+      ]
+    },
+    {
+      "id": "noir:holiznacc0--witchcraft",
+      "file": "audio/holiznacc0--witchcraft.mp3",
+      "title": "WitchCraft",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/witchcraft/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/witchcraft/"
+      ]
+    },
+    {
+      "id": "noir:holiznacc0--strangers",
+      "file": "audio/holiznacc0--strangers.mp3",
+      "title": "Strangers",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/strangers/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/strangers/"
+      ]
+    },
+    {
+      "id": "noir:holiznacc0--how-can-things-be",
+      "file": "audio/holiznacc0--how-can-things-be.mp3",
+      "title": "How Can Things Be",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/how-can-things-be/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/how-can-things-be/"
+      ]
+    },
+    {
+      "id": "noir:holiznacc0--there-ain-t-nothin",
+      "file": "audio/holiznacc0--there-ain-t-nothin.mp3",
+      "title": "There Ain't Nothin",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/there-aint-nothin/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/there-aint-nothin/"
+      ]
+    },
+    {
+      "id": "noir:holiznacc0--swingin-richards",
+      "file": "audio/holiznacc0--swingin-richards.mp3",
+      "title": "Swingin' Richards",
+      "artist": "HoliznaCC0",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/holiznacc0/orphaned-media/swingin-richards/",
+      "sources": [
+        "https://freemusicarchive.org/music/holiznacc0/orphaned-media/swingin-richards/"
+      ]
+    }
+  ]
+}
