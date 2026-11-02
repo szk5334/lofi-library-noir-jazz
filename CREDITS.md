@@ -62,3 +62,35 @@ free web radio, not for monetized or video uploads.
 - “How You are” by Crowander — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/crowander/circles/how-you-are/) — **radio only**
 - “Soulfull” by Crowander — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/crowander/circles/soulfull/) — **radio only**
 - “Slow Ride Blues” by Martijn de Boer (NiGiD) — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — [source](https://ccmixter.org/files/NiGiD/70786) — **radio only**
+- “Bass Walker” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Shades of Spring” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Mystery Sax” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Dirt Rhodes” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Soporific” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Comfortable Mystery” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Man Down” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Sunday Dub” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “In Your Arms” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Intractable” by Kevin MacLeod — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — [source](https://incompetech.com/music/royalty-free/music.html)
+- “Large Detective” by The New Mellow Edwards — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://freemusicarchive.org/music/The_New_Mellow_Edwards/Big_Choantza_1739/Large_Detectivemp3_1320/) — **radio only**
+- “LA” by Julian Winter — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://freemusicarchive.org/music/Julian_Winter/film-noir/la/) — **radio only**
+- “Night City” by Lobo Loco — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/out-from-the-dark/night-city-id-1635/) — **radio only**
+- “At Night All Cats are Grey” by Lobo Loco — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/summer-sailing-ammersee/at-night-all-cats-are-grey-id-1957/) — **radio only**
+- “Saw You Last Night” by Lobo Loco — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/summer-sailing-ammersee/saw-you-last-night-id-1965/) — **radio only**
+- “Free Jazz Thriller” by Lobo Loco — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/completly-free/free-jazz-thriller-f-018/)
+- “Secret Secrets” by Lobo Loco — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — [source](https://freemusicarchive.org/music/Lobo_Loco/youre-welcome/secret-secrets-id-1723/) — **radio only**
+- “Femme Fatale” by Domeneko — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK020) — **radio only**
+- “The Drunk Trumpeter” by Domeneko — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK020) — **radio only**
+- “Retrospective” by Domeneko — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK020) — **radio only**
+- “Rain” by Domeneko — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK020) — **radio only**
+- “Corrupt” by Domeneko — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK020) — **radio only**
+- “Streetlight Noir” by Jenova 7 — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK119) — **radio only**
+- “Alleyway Jazz” by Jenova 7 — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK119) — **radio only**
+- “Absence In Velvet” by Jenova 7 — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK119) — **radio only**
+- “Midnight Ride” by Jenova 7 — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK119) — **radio only**
+- “A Touch Of Evil” by Jenova 7 — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK107) — **radio only**
+- “Dark Water Jazz” by Jenova 7 — [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) — [source](https://archive.org/details/DWK107) — **radio only**
+- “Street Corners” by Sick Rat — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://archive.org/details/DWK364) — **radio only**
+- “Smokey Twilight” by Sick Rat — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://archive.org/details/DWK364) — **radio only**
+- “Risky Affair” by Sick Rat — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://archive.org/details/DWK364) — **radio only**
+- “My Lonely Nights” by Sick Rat — [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — [source](https://archive.org/details/DWK364) — **radio only**
