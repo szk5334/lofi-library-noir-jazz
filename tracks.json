@@ -765,6 +765,448 @@
         "https://ccmixter.org/content/NiGiD/NiGiD_-_Slow_Ride_Blues.mp3",
         "https://ccmixter.org/files/NiGiD/70786"
       ]
+    },
+    {
+      "id": "noir:kevin-macleod--bass-walker",
+      "file": "audio/kevin-macleod--bass-walker.mp3",
+      "title": "Bass Walker",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bass%20Walker.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--shades-of-spring",
+      "file": "audio/kevin-macleod--shades-of-spring.mp3",
+      "title": "Shades of Spring",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Shades%20of%20Spring.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--mystery-sax",
+      "file": "audio/kevin-macleod--mystery-sax.mp3",
+      "title": "Mystery Sax",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Mystery%20Sax.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--dirt-rhodes",
+      "file": "audio/kevin-macleod--dirt-rhodes.mp3",
+      "title": "Dirt Rhodes",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dirt%20Rhodes.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--soporific",
+      "file": "audio/kevin-macleod--soporific.mp3",
+      "title": "Soporific",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Soporific.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--comfortable-mystery",
+      "file": "audio/kevin-macleod--comfortable-mystery.mp3",
+      "title": "Comfortable Mystery",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Comfortable%20Mystery.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--man-down",
+      "file": "audio/kevin-macleod--man-down.mp3",
+      "title": "Man Down",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Man%20Down.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--sunday-dub",
+      "file": "audio/kevin-macleod--sunday-dub.mp3",
+      "title": "Sunday Dub",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sunday%20Dub.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--in-your-arms",
+      "file": "audio/kevin-macleod--in-your-arms.mp3",
+      "title": "In Your Arms",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/In%20Your%20Arms.mp3"
+      ]
+    },
+    {
+      "id": "noir:kevin-macleod--intractable",
+      "file": "audio/kevin-macleod--intractable.mp3",
+      "title": "Intractable",
+      "artist": "Kevin MacLeod",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://incompetech.com/music/royalty-free/music.html",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Intractable.mp3"
+      ]
+    },
+    {
+      "id": "noir:the-new-mellow-edwards--large-detective",
+      "file": "audio/the-new-mellow-edwards--large-detective.mp3",
+      "title": "Large Detective",
+      "artist": "The New Mellow Edwards",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/The_New_Mellow_Edwards/Big_Choantza_1739/Large_Detectivemp3_1320/",
+      "sources": [
+        "https://freemusicarchive.org/music/The_New_Mellow_Edwards/Big_Choantza_1739/Large_Detectivemp3_1320/"
+      ]
+    },
+    {
+      "id": "noir:julian-winter--la",
+      "file": "audio/julian-winter--la.mp3",
+      "title": "LA",
+      "artist": "Julian Winter",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Julian_Winter/film-noir/la/",
+      "sources": [
+        "https://freemusicarchive.org/music/Julian_Winter/film-noir/la/"
+      ]
+    },
+    {
+      "id": "noir:geoff-harvey--film-noir-mobster",
+      "file": "audio/geoff-harvey--film-noir-mobster.mp3",
+      "title": "Film Noir Mobster",
+      "artist": "Geoff Harvey",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/geoff-harvey-purple-planet-music/secret-society/film-noir-mobster/",
+      "sources": [
+        "https://freemusicarchive.org/music/geoff-harvey-purple-planet-music/secret-society/film-noir-mobster/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--night-city",
+      "file": "audio/lobo-loco--night-city.mp3",
+      "title": "Night City",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/out-from-the-dark/night-city-id-1635/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/out-from-the-dark/night-city-id-1635/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--at-night-all-cats-are-grey",
+      "file": "audio/lobo-loco--at-night-all-cats-are-grey.mp3",
+      "title": "At Night All Cats are Grey",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/summer-sailing-ammersee/at-night-all-cats-are-grey-id-1957/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/summer-sailing-ammersee/at-night-all-cats-are-grey-id-1957/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--saw-you-last-night",
+      "file": "audio/lobo-loco--saw-you-last-night.mp3",
+      "title": "Saw You Last Night",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/summer-sailing-ammersee/saw-you-last-night-id-1965/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/summer-sailing-ammersee/saw-you-last-night-id-1965/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--free-jazz-thriller",
+      "file": "audio/lobo-loco--free-jazz-thriller.mp3",
+      "title": "Free Jazz Thriller",
+      "artist": "Lobo Loco",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "youtube_ok": true,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/completly-free/free-jazz-thriller-f-018/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/completly-free/free-jazz-thriller-f-018/"
+      ]
+    },
+    {
+      "id": "noir:lobo-loco--secret-secrets",
+      "file": "audio/lobo-loco--secret-secrets.mp3",
+      "title": "Secret Secrets",
+      "artist": "Lobo Loco",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "youtube_ok": false,
+      "page": "https://freemusicarchive.org/music/Lobo_Loco/youre-welcome/secret-secrets-id-1723/",
+      "sources": [
+        "https://freemusicarchive.org/music/Lobo_Loco/youre-welcome/secret-secrets-id-1723/"
+      ]
+    },
+    {
+      "id": "noir:domeneko--femme-fatale",
+      "file": "audio/domeneko--femme-fatale.mp3",
+      "title": "Femme Fatale",
+      "artist": "Domeneko",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK020",
+      "sources": [
+        "https://archive.org/download/DWK020/Domeneko_-_03_-_Femme_Fatale.mp3"
+      ]
+    },
+    {
+      "id": "noir:domeneko--the-drunk-trumpeter",
+      "file": "audio/domeneko--the-drunk-trumpeter.mp3",
+      "title": "The Drunk Trumpeter",
+      "artist": "Domeneko",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK020",
+      "sources": [
+        "https://archive.org/download/DWK020/Domeneko_-_02_-_The_Drunk_Trumpeter.mp3"
+      ]
+    },
+    {
+      "id": "noir:domeneko--retrospective",
+      "file": "audio/domeneko--retrospective.mp3",
+      "title": "Retrospective",
+      "artist": "Domeneko",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK020",
+      "sources": [
+        "https://archive.org/download/DWK020/Domeneko_-_04_-_Retrospective.mp3"
+      ]
+    },
+    {
+      "id": "noir:domeneko--rain",
+      "file": "audio/domeneko--rain.mp3",
+      "title": "Rain",
+      "artist": "Domeneko",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK020",
+      "sources": [
+        "https://archive.org/download/DWK020/Domeneko_-_15_-_Rain.mp3"
+      ]
+    },
+    {
+      "id": "noir:domeneko--corrupt",
+      "file": "audio/domeneko--corrupt.mp3",
+      "title": "Corrupt",
+      "artist": "Domeneko",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK020",
+      "sources": [
+        "https://archive.org/download/DWK020/Domeneko_-_10_-_Corrupt.mp3"
+      ]
+    },
+    {
+      "id": "noir:domeneko--the-last-show",
+      "file": "audio/domeneko--the-last-show.mp3",
+      "title": "The Last Show",
+      "artist": "Domeneko",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK020",
+      "sources": [
+        "https://archive.org/download/DWK020/Domeneko_-_19_-_The_Last_Show.mp3"
+      ]
+    },
+    {
+      "id": "noir:jenova-7--streetlight-noir",
+      "file": "audio/jenova-7--streetlight-noir.mp3",
+      "title": "Streetlight Noir",
+      "artist": "Jenova 7",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK119",
+      "sources": [
+        "https://archive.org/download/DWK119/Jenova_7_-_03_-_Streetlight_Noir.mp3"
+      ]
+    },
+    {
+      "id": "noir:jenova-7--alleyway-jazz",
+      "file": "audio/jenova-7--alleyway-jazz.mp3",
+      "title": "Alleyway Jazz",
+      "artist": "Jenova 7",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK119",
+      "sources": [
+        "https://archive.org/download/DWK119/Jenova_7_-_18_-_Alleyway_Jazz.mp3"
+      ]
+    },
+    {
+      "id": "noir:jenova-7--absence-in-velvet",
+      "file": "audio/jenova-7--absence-in-velvet.mp3",
+      "title": "Absence In Velvet",
+      "artist": "Jenova 7",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK119",
+      "sources": [
+        "https://archive.org/download/DWK119/Jenova_7_-_19_-_Absence_In_Velvet.mp3"
+      ]
+    },
+    {
+      "id": "noir:jenova-7--midnight-ride",
+      "file": "audio/jenova-7--midnight-ride.mp3",
+      "title": "Midnight Ride",
+      "artist": "Jenova 7",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK119",
+      "sources": [
+        "https://archive.org/download/DWK119/Jenova_7_-_07_-_Midnight_Ride.mp3"
+      ]
+    },
+    {
+      "id": "noir:jenova-7--a-touch-of-evil",
+      "file": "audio/jenova-7--a-touch-of-evil.mp3",
+      "title": "A Touch Of Evil",
+      "artist": "Jenova 7",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK107",
+      "sources": [
+        "https://archive.org/download/DWK107/Jenova_7_-_04_-_A_Touch_Of_Evil.mp3"
+      ]
+    },
+    {
+      "id": "noir:jenova-7--dark-water-jazz",
+      "file": "audio/jenova-7--dark-water-jazz.mp3",
+      "title": "Dark Water Jazz",
+      "artist": "Jenova 7",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK107",
+      "sources": [
+        "https://archive.org/download/DWK107/Jenova_7_-_01_-_Dark_Water_Jazz.mp3"
+      ]
+    },
+    {
+      "id": "noir:sick-rat--street-corners",
+      "file": "audio/sick-rat--street-corners.mp3",
+      "title": "Street Corners",
+      "artist": "Sick Rat",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK364",
+      "sources": [
+        "https://archive.org/download/DWK364/Sick_Rat_-_09_-_Street_Corners.mp3"
+      ]
+    },
+    {
+      "id": "noir:sick-rat--smokey-twilight",
+      "file": "audio/sick-rat--smokey-twilight.mp3",
+      "title": "Smokey Twilight",
+      "artist": "Sick Rat",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK364",
+      "sources": [
+        "https://archive.org/download/DWK364/Sick_Rat_-_20_-_Smokey_Twilight.mp3"
+      ]
+    },
+    {
+      "id": "noir:sick-rat--risky-affair",
+      "file": "audio/sick-rat--risky-affair.mp3",
+      "title": "Risky Affair",
+      "artist": "Sick Rat",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK364",
+      "sources": [
+        "https://archive.org/download/DWK364/Sick_Rat_-_11_-_Risky_Affair.mp3"
+      ]
+    },
+    {
+      "id": "noir:sick-rat--my-lonely-nights",
+      "file": "audio/sick-rat--my-lonely-nights.mp3",
+      "title": "My Lonely Nights",
+      "artist": "Sick Rat",
+      "license": "CC BY-NC-ND 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK364",
+      "sources": [
+        "https://archive.org/download/DWK364/Sick_Rat_-_13_-_My_Lonely_Nights.mp3"
+      ]
     }
   ]
 }
