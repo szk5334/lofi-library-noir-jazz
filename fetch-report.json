@@ -1,13 +1,13 @@
 {
   "summary": {
     "library": "noir",
-    "listed": 92,
-    "in_library": 90,
-    "downloaded": 32,
-    "failed": 2,
+    "listed": 91,
+    "in_library": 91,
+    "downloaded": 1,
+    "failed": 0,
     "purged": [],
-    "audio_mb": 265.8,
-    "minutes": 332
+    "audio_mb": 267.6,
+    "minutes": 334
   },
   "tracks": [
     {
@@ -420,280 +420,232 @@
       "id": "noir:kevin-macleod--bass-walker",
       "title": "Bass Walker",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bass%20Walker.mp3",
+      "status": "kept",
       "seconds": 162
     },
     {
       "id": "noir:kevin-macleod--shades-of-spring",
       "title": "Shades of Spring",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Shades%20of%20Spring.mp3",
+      "status": "kept",
       "seconds": 187
     },
     {
       "id": "noir:kevin-macleod--mystery-sax",
       "title": "Mystery Sax",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Mystery%20Sax.mp3",
+      "status": "kept",
       "seconds": 275
     },
     {
       "id": "noir:kevin-macleod--dirt-rhodes",
       "title": "Dirt Rhodes",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dirt%20Rhodes.mp3",
+      "status": "kept",
       "seconds": 120
     },
     {
       "id": "noir:kevin-macleod--soporific",
       "title": "Soporific",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Soporific.mp3",
+      "status": "kept",
       "seconds": 290
     },
     {
       "id": "noir:kevin-macleod--comfortable-mystery",
       "title": "Comfortable Mystery",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Comfortable%20Mystery.mp3",
+      "status": "kept",
       "seconds": 236
     },
     {
       "id": "noir:kevin-macleod--man-down",
       "title": "Man Down",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Man%20Down.mp3",
+      "status": "kept",
       "seconds": 199
     },
     {
       "id": "noir:kevin-macleod--sunday-dub",
       "title": "Sunday Dub",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sunday%20Dub.mp3",
+      "status": "kept",
       "seconds": 210
     },
     {
       "id": "noir:kevin-macleod--in-your-arms",
       "title": "In Your Arms",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/In%20Your%20Arms.mp3",
+      "status": "kept",
       "seconds": 169
     },
     {
       "id": "noir:kevin-macleod--intractable",
       "title": "Intractable",
       "artist": "Kevin MacLeod",
-      "status": "downloaded",
-      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Intractable.mp3",
+      "status": "kept",
       "seconds": 268
     },
     {
       "id": "noir:the-new-mellow-edwards--large-detective",
       "title": "Large Detective",
       "artist": "The New Mellow Edwards",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/The_New_Mellow_Edwards/Big_Choantza/The_New_Mellow_Edwards_-_05_-_Large_Detective.mp3",
+      "status": "kept",
       "seconds": 136
     },
     {
       "id": "noir:julian-winter--la",
       "title": "LA",
       "artist": "Julian Winter",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/d96bi0otEjc6UejE4fCrPS1T0fEdNlsBXVzZn3Na.mp3",
+      "status": "kept",
       "seconds": 140
-    },
-    {
-      "id": "noir:geoff-harvey--film-noir-mobster",
-      "title": "Film Noir Mobster",
-      "artist": "Geoff Harvey",
-      "status": "failed",
-      "tried": [
-        {
-          "source": "https://freemusicarchive.org/music/geoff-harvey-purple-planet-music/secret-society/film-noir-mobster/",
-          "error": "no audio link found on page"
-        }
-      ]
     },
     {
       "id": "noir:lobo-loco--night-city",
       "title": "Night City",
       "artist": "Lobo Loco",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/5V0gHAGL0CQAcQ6X61DEx6yqSdOBAEYbMZAt9ghZ.mp3",
+      "status": "kept",
       "seconds": 165
     },
     {
       "id": "noir:lobo-loco--at-night-all-cats-are-grey",
       "title": "At Night All Cats are Grey",
       "artist": "Lobo Loco",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/PVy77yup60gY5614igTMznS0Iwxl14guIWK4dVzC.mp3",
+      "status": "kept",
       "seconds": 240
     },
     {
       "id": "noir:lobo-loco--saw-you-last-night",
       "title": "Saw You Last Night",
       "artist": "Lobo Loco",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/7CRwpol3BBagwgebdIGHn78uYnr8c0E1BaOeV6BA.mp3",
+      "status": "kept",
       "seconds": 297
     },
     {
       "id": "noir:lobo-loco--free-jazz-thriller",
       "title": "Free Jazz Thriller",
       "artist": "Lobo Loco",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/q8tfJydIyEom7ErR2NSPcTENK4z5T6zT2S0NSRe0.mp3",
+      "status": "kept",
       "seconds": 193
     },
     {
       "id": "noir:lobo-loco--secret-secrets",
       "title": "Secret Secrets",
       "artist": "Lobo Loco",
-      "status": "downloaded",
-      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/PBO5a1IE0MFVBkNHXJyFbaRFRHrKOsECCkdCCHcy.mp3",
+      "status": "kept",
       "seconds": 186
     },
     {
       "id": "noir:domeneko--femme-fatale",
       "title": "Femme Fatale",
       "artist": "Domeneko",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK020/Domeneko_-_03_-_Femme_Fatale.mp3",
+      "status": "kept",
       "seconds": 118
     },
     {
       "id": "noir:domeneko--the-drunk-trumpeter",
       "title": "The Drunk Trumpeter",
       "artist": "Domeneko",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK020/Domeneko_-_02_-_The_Drunk_Trumpeter.mp3",
+      "status": "kept",
       "seconds": 149
     },
     {
       "id": "noir:domeneko--retrospective",
       "title": "Retrospective",
       "artist": "Domeneko",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK020/Domeneko_-_04_-_Retrospective.mp3",
+      "status": "kept",
       "seconds": 128
     },
     {
       "id": "noir:domeneko--rain",
       "title": "Rain",
       "artist": "Domeneko",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK020/Domeneko_-_15_-_Rain.mp3",
+      "status": "kept",
       "seconds": 215
     },
     {
       "id": "noir:domeneko--corrupt",
       "title": "Corrupt",
       "artist": "Domeneko",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK020/Domeneko_-_10_-_Corrupt.mp3",
+      "status": "kept",
       "seconds": 125
     },
     {
       "id": "noir:domeneko--the-last-show",
       "title": "The Last Show",
       "artist": "Domeneko",
-      "status": "failed",
-      "tried": [
-        {
-          "source": "https://archive.org/download/DWK020/Domeneko_-_19_-_The_Last_Show.mp3",
-          "error": "HTTPError: HTTP Error 500: Internal Server Error"
-        }
-      ]
+      "status": "downloaded",
+      "from_url": "https://archive.org/download/DWK020/Domeneko_-_19_-_The_Last_Show.mp3",
+      "seconds": 132
     },
     {
       "id": "noir:jenova-7--streetlight-noir",
       "title": "Streetlight Noir",
       "artist": "Jenova 7",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK119/Jenova_7_-_03_-_Streetlight_Noir.mp3",
+      "status": "kept",
       "seconds": 167
     },
     {
       "id": "noir:jenova-7--alleyway-jazz",
       "title": "Alleyway Jazz",
       "artist": "Jenova 7",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK119/Jenova_7_-_18_-_Alleyway_Jazz.mp3",
+      "status": "kept",
       "seconds": 246
     },
     {
       "id": "noir:jenova-7--absence-in-velvet",
       "title": "Absence In Velvet",
       "artist": "Jenova 7",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK119/Jenova_7_-_19_-_Absence_In_Velvet.mp3",
+      "status": "kept",
       "seconds": 144
     },
     {
       "id": "noir:jenova-7--midnight-ride",
       "title": "Midnight Ride",
       "artist": "Jenova 7",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK119/Jenova_7_-_07_-_Midnight_Ride.mp3",
+      "status": "kept",
       "seconds": 234
     },
     {
       "id": "noir:jenova-7--a-touch-of-evil",
       "title": "A Touch Of Evil",
       "artist": "Jenova 7",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK107/Jenova_7_-_04_-_A_Touch_Of_Evil.mp3",
+      "status": "kept",
       "seconds": 272
     },
     {
       "id": "noir:jenova-7--dark-water-jazz",
       "title": "Dark Water Jazz",
       "artist": "Jenova 7",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK107/Jenova_7_-_01_-_Dark_Water_Jazz.mp3",
+      "status": "kept",
       "seconds": 272
     },
     {
       "id": "noir:sick-rat--street-corners",
       "title": "Street Corners",
       "artist": "Sick Rat",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK364/Sick_Rat_-_09_-_Street_Corners.mp3",
+      "status": "kept",
       "seconds": 156
     },
     {
       "id": "noir:sick-rat--smokey-twilight",
       "title": "Smokey Twilight",
       "artist": "Sick Rat",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK364/Sick_Rat_-_20_-_Smokey_Twilight.mp3",
+      "status": "kept",
       "seconds": 157
     },
     {
       "id": "noir:sick-rat--risky-affair",
       "title": "Risky Affair",
       "artist": "Sick Rat",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK364/Sick_Rat_-_11_-_Risky_Affair.mp3",
+      "status": "kept",
       "seconds": 196
     },
     {
       "id": "noir:sick-rat--my-lonely-nights",
       "title": "My Lonely Nights",
       "artist": "Sick Rat",
-      "status": "downloaded",
-      "from_url": "https://archive.org/download/DWK364/Sick_Rat_-_13_-_My_Lonely_Nights.mp3",
+      "status": "kept",
       "seconds": 201
     }
   ]

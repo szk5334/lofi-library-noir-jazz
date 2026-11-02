@@ -962,6 +962,18 @@
       "seconds": 125
     },
     {
+      "id": "noir:domeneko--the-last-show",
+      "url": "audio/domeneko--the-last-show.mp3",
+      "title": "The Last Show",
+      "artist": "Domeneko",
+      "library": "noir",
+      "license": "CC BY-NC-ND 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "youtube_ok": false,
+      "page": "https://archive.org/details/DWK020",
+      "seconds": 132
+    },
+    {
       "id": "noir:jenova-7--streetlight-noir",
       "url": "audio/jenova-7--streetlight-noir.mp3",
       "title": "Streetlight Noir",
