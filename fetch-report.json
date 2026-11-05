@@ -3,650 +3,834 @@
     "library": "noir",
     "listed": 91,
     "in_library": 91,
-    "downloaded": 1,
+    "downloaded": 0,
+    "mastered": 91,
     "failed": 0,
+    "pending": 0,
+    "finished": 91,
     "purged": [],
-    "audio_mb": 267.6,
-    "minutes": 334
+    "audio_mb": 264.8,
+    "minutes": 330
   },
   "tracks": [
     {
       "id": "noir:shane-ivers--signs-to-nowhere",
       "title": "Signs To Nowhere",
       "artist": "Shane Ivers",
-      "status": "kept",
-      "seconds": 211
+      "status": "mastered",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/signs-to-nowhere.mp3",
+      "was_lufs": -13.2,
+      "seconds": 209
     },
     {
       "id": "noir:shane-ivers--streetlight-serenade",
       "title": "Streetlight Serenade",
       "artist": "Shane Ivers",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/streetlight-serenade.mp3",
+      "was_lufs": -9.2,
       "seconds": 174
     },
     {
       "id": "noir:shane-ivers--dark-flashes",
       "title": "Dark Flashes",
       "artist": "Shane Ivers",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/dark-flashes.mp3",
+      "was_lufs": -8.5,
       "seconds": 217
     },
     {
       "id": "noir:shane-ivers--opening-move",
       "title": "Opening Move",
       "artist": "Shane Ivers",
-      "status": "kept",
-      "seconds": 148
+      "status": "mastered",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/opening-move.mp3",
+      "was_lufs": -14.2,
+      "seconds": 141
     },
     {
       "id": "noir:shane-ivers--what-s-the-angle",
       "title": "What's The Angle?",
       "artist": "Shane Ivers",
-      "status": "kept",
-      "seconds": 160
+      "status": "mastered",
+      "from_url": "https://www.silvermansound.com/wp-content/uploads/whats-the-angle.mp3",
+      "was_lufs": -9.2,
+      "seconds": 159
     },
     {
       "id": "noir:kevin-macleod--night-on-the-docks-sax",
       "title": "Night on the Docks - Sax",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 174
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_Night_on_the_Docks_-_Sax.mp3",
+      "was_lufs": -24.6,
+      "seconds": 171
     },
     {
       "id": "noir:kevin-macleod--i-knew-a-guy",
       "title": "I Knew a Guy",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 167
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_I_Knew_a_Guy.mp3",
+      "was_lufs": -23.9,
+      "seconds": 161
     },
     {
       "id": "noir:kevin-macleod--backed-vibes-clean",
       "title": "Backed Vibes Clean",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 228
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_Backed_Vibes_Clean.mp3",
+      "was_lufs": -14.3,
+      "seconds": 224
     },
     {
       "id": "noir:kevin-macleod--as-i-figure",
       "title": "As I Figure",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 217
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Kevin_MacLeod/Jazz_Sampler/Kevin_MacLeod_-_As_I_Figure.mp3",
+      "was_lufs": -19.1,
+      "seconds": 212
     },
     {
       "id": "noir:kevin-macleod--night-on-the-docks-piano",
       "title": "Night on the Docks - Piano",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 174
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20on%20the%20Docks.mp3",
+      "was_lufs": -25.9,
+      "seconds": 171
     },
     {
       "id": "noir:kevin-macleod--night-on-the-docks-trumpet",
       "title": "Night on the Docks - Trumpet",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 174
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20on%20the%20Docks%20-%20Trumpet.mp3",
+      "was_lufs": -25.9,
+      "seconds": 172
     },
     {
       "id": "noir:kevin-macleod--hard-boiled",
       "title": "Hard Boiled",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 181
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hard%20Boiled.mp3",
+      "was_lufs": -21.3,
+      "seconds": 177
     },
     {
       "id": "noir:kevin-macleod--deadly-roulette",
       "title": "Deadly Roulette",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 159
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deadly%20Roulette.mp3",
+      "was_lufs": -21.2,
+      "seconds": 153
     },
     {
       "id": "noir:kevin-macleod--just-as-soon",
       "title": "Just As Soon",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 228
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Just%20As%20Soon.mp3",
+      "was_lufs": -23.1,
+      "seconds": 215
     },
     {
       "id": "noir:kevin-macleod--walking-along",
       "title": "Walking Along",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 144
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Walking%20Along.mp3",
+      "was_lufs": -23.9,
+      "seconds": 137
     },
     {
       "id": "noir:kevin-macleod--spy-glass",
       "title": "Spy Glass",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 227
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Spy%20Glass.mp3",
+      "was_lufs": -16.8,
+      "seconds": 224
     },
     {
       "id": "noir:kevin-macleod--on-the-ground",
       "title": "On the Ground",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 159
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/On%20the%20Ground.mp3",
+      "was_lufs": -14.9,
+      "seconds": 158
     },
     {
       "id": "noir:kevin-macleod--cool-vibes",
       "title": "Cool Vibes",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 218
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cool%20Vibes.mp3",
+      "was_lufs": -30.0,
+      "seconds": 212
     },
     {
       "id": "noir:kevin-macleod--night-in-venice",
       "title": "Night in Venice",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 218
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20in%20Venice.mp3",
+      "was_lufs": -12.1,
+      "seconds": 216
     },
     {
       "id": "noir:kevin-macleod--covert-affair",
       "title": "Covert Affair",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 194
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Covert%20Affair.mp3",
+      "was_lufs": -15.8,
+      "seconds": 192
     },
     {
       "id": "noir:kevin-macleod--kool-kats",
       "title": "Kool Kats",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 201
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Kool%20Kats.mp3",
+      "was_lufs": -16.6,
+      "seconds": 197
     },
     {
       "id": "noir:kevin-macleod--acid-trumpet",
       "title": "Acid Trumpet",
       "artist": "Kevin MacLeod",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/AcidJazz.mp3",
+      "was_lufs": -18.4,
       "seconds": 208
     },
     {
       "id": "noir:kevin-macleod--on-the-cool-side",
       "title": "On the Cool Side",
       "artist": "Kevin MacLeod",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/On%20the%20Cool%20Side.mp3",
+      "was_lufs": -17.4,
       "seconds": 102
     },
     {
       "id": "noir:dee-yan-key--gone",
       "title": "gone",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 221
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/X0P9hb3BchQdJnkRDATAREH47nfwMb0WRU1dx3ZG.mp3",
+      "was_lufs": -14.7,
+      "seconds": 220
     },
     {
       "id": "noir:dee-yan-key--winter",
       "title": "winter",
       "artist": "Dee Yan-Key",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/QOJzGH7hQZnTOBgoqkxxeahg0SAESctrQU4wYZv4.mp3",
+      "was_lufs": -14.3,
       "seconds": 405
     },
     {
       "id": "noir:dee-yan-key--carousel",
       "title": "carousel",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 350
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/n7qnGFuzQz2YgFNxgdbKC5r2CN6MlWDbIXYR2PXu.mp3",
+      "was_lufs": -15.0,
+      "seconds": 347
     },
     {
       "id": "noir:blue-dot-sessions--diner-gothic-bottomless",
       "title": "Diner Gothic - Bottomless",
       "artist": "Blue Dot Sessions",
-      "status": "kept",
-      "seconds": 193
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Blue_Dot_Sessions/Diner_Gothic/Blue_Dot_Sessions_-_01_-_Diner_Gothic_-_Bottomless.mp3",
+      "was_lufs": -16.3,
+      "seconds": 190
     },
     {
       "id": "noir:blue-dot-sessions--diner-gothic-intercept",
       "title": "Diner Gothic - Intercept",
       "artist": "Blue Dot Sessions",
-      "status": "kept",
-      "seconds": 192
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Blue_Dot_Sessions/Diner_Gothic/Blue_Dot_Sessions_-_04_-_Diner_Gothic_-_Intercept.mp3",
+      "was_lufs": -16.6,
+      "seconds": 189
     },
     {
       "id": "noir:blue-dot-sessions--diner-gothic-closing",
       "title": "Diner Gothic - Closing",
       "artist": "Blue Dot Sessions",
-      "status": "kept",
-      "seconds": 121
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Blue_Dot_Sessions/Diner_Gothic/Blue_Dot_Sessions_-_05_-_Diner_Gothic_-_Closing.mp3",
+      "was_lufs": -15.2,
+      "seconds": 120
     },
     {
       "id": "noir:crowander--have-a-smoke",
       "title": "Have a Smoke",
       "artist": "Crowander",
-      "status": "kept",
-      "seconds": 263
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/DI4hAcHrt0b63CeWpCoFzA8Bks2gWf6HcnHbhj1P.mp3",
+      "was_lufs": -10.0,
+      "seconds": 258
     },
     {
       "id": "noir:crowander--last-drink",
       "title": "Last Drink",
       "artist": "Crowander",
-      "status": "kept",
-      "seconds": 298
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/bxFULK6LO6lpozkPmYhW1BndIYQUDNPYNz2gHnmQ.mp3",
+      "was_lufs": -9.9,
+      "seconds": 296
     },
     {
       "id": "noir:crowander--neon-lights",
       "title": "Neon Lights",
       "artist": "Crowander",
-      "status": "kept",
-      "seconds": 272
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/4iy3UgUmdP1fHwOqmvnuROhDYb7jnYMk441uXyDg.mp3",
+      "was_lufs": -11.9,
+      "seconds": 270
     },
     {
       "id": "noir:ketsa--night-jazz",
       "title": "Night Jazz",
       "artist": "Ketsa",
-      "status": "kept",
-      "seconds": 217
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ablvayacORvt0NdELY7NRbzm8lMlXoKoqqdSDKtf.mp3",
+      "was_lufs": -11.2,
+      "seconds": 216
     },
     {
       "id": "noir:ketsa--jazz-for-the-rain",
       "title": "Jazz For The Rain",
       "artist": "Ketsa",
-      "status": "kept",
-      "seconds": 204
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/EocS0SSjc1ly4CyiNpblJ8mIPk1EIzVjeWVz4k0d.mp3",
+      "was_lufs": -10.4,
+      "seconds": 202
     },
     {
       "id": "noir:ruskerdax--moil",
       "title": "Moil",
       "artist": "Ruskerdax",
-      "status": "kept",
-      "seconds": 185
+      "status": "mastered",
+      "from_url": "https://opengameart.org/sites/default/files/ruskerdax_-_moil.mp3",
+      "was_lufs": -16.4,
+      "seconds": 179
     },
     {
       "id": "noir:dee-yan-key--rainy-streets",
       "title": "Rainy Streets",
       "artist": "Dee Yan-Key",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ZpcLe0zWlzzRHoGISfVFLulakp5btE2wyAUOwmIj.mp3",
+      "was_lufs": -16.1,
       "seconds": 229
     },
     {
       "id": "noir:dee-yan-key--autumn-nightfall",
       "title": "Autumn Nightfall",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 302
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/B7XYUdXO9PdqbMoUyHCdUfVbHui8we8wEOZbnrMi.mp3",
+      "was_lufs": -16.4,
+      "seconds": 300
     },
     {
       "id": "noir:dee-yan-key--at-nightfall",
       "title": "At Nightfall",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 235
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Modern_Times/Dee_Yan-Key_-_04_-_At_Nightfall.mp3",
+      "was_lufs": -18.5,
+      "seconds": 233
     },
     {
       "id": "noir:dee-yan-key--night-music",
       "title": "night music",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 276
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/rZ6xa90iAr3OikgFu6QZLkgWiRM0YOV4ie7Gs51T.mp3",
+      "was_lufs": -15.3,
+      "seconds": 271
     },
     {
       "id": "noir:dee-yan-key--gloomy-sky",
       "title": "gloomy sky",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 318
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/V3SRFZCveNNSaoMbQ9Lsc0yTMgjcTX5XW6ICs7JK.mp3",
+      "was_lufs": -16.9,
+      "seconds": 316
     },
     {
       "id": "noir:dee-yan-key--loss",
       "title": "Loss",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 230
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Crises/Dee_Yan-Key_-_01_-_Loss.mp3",
+      "was_lufs": -18.0,
+      "seconds": 226
     },
     {
       "id": "noir:dee-yan-key--fragile",
       "title": "Fragile",
       "artist": "Dee Yan-Key",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Crises/Dee_Yan-Key_-_05_-_Fragile.mp3",
+      "was_lufs": -16.5,
       "seconds": 281
     },
     {
       "id": "noir:dee-yan-key--nights",
       "title": "Nights",
       "artist": "Dee Yan-Key",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Vacation_Days/Dee_Yan-Key_-_06_-_Nights.mp3",
+      "was_lufs": -17.4,
       "seconds": 227
     },
     {
       "id": "noir:martijn-de-boer-nigid--departures-duet-for-piano-and-bass",
       "title": "Departures (Duet for piano and bass)",
       "artist": "Martijn de Boer (NiGiD)",
-      "status": "kept",
-      "seconds": 293
+      "status": "mastered",
+      "from_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Departures_(Duet_for_piano_and_bass).mp3",
+      "was_lufs": -17.7,
+      "seconds": 292
     },
     {
       "id": "noir:dee-yan-key--retrospect",
       "title": "Retrospect",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 444
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Crises/Dee_Yan-Key_-_02_-_Retrospect.mp3",
+      "was_lufs": -16.7,
+      "seconds": 440
     },
     {
       "id": "noir:dee-yan-key--night-sky",
       "title": "night sky",
       "artist": "Dee Yan-Key",
-      "status": "kept",
-      "seconds": 124
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/kaj3p3avYy3noMSdxYgjiEIACwUYtXt3pJK7K9pZ.mp3",
+      "was_lufs": -16.0,
+      "seconds": 120
     },
     {
       "id": "noir:lobo-loco--little-caesar-bandello",
       "title": "Little Caesar Bandello",
       "artist": "Lobo Loco",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/mz3pNswiG1W7KrkzUrenhN8A5QyM8ix7aiYRirhl.mp3",
+      "was_lufs": -14.9,
       "seconds": 196
     },
     {
       "id": "noir:dee-yan-key--hebetude",
       "title": "Hebetude",
       "artist": "Dee Yan-Key",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Crises/Dee_Yan-Key_-_03_-_Hebetude.mp3",
+      "was_lufs": -18.4,
       "seconds": 210
     },
     {
       "id": "noir:martijn-de-boer-nigid--absent-enemies",
       "title": "Absent Enemies",
       "artist": "Martijn de Boer (NiGiD)",
-      "status": "kept",
-      "seconds": 490
+      "status": "mastered",
+      "from_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Absent_Enemies.mp3",
+      "was_lufs": -17.1,
+      "seconds": 488
     },
     {
       "id": "noir:lobo-loco--in-my-heart",
       "title": "In my Heart",
       "artist": "Lobo Loco",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/d1LKVYQK3NPeb2WwPbfybqZe60C3E9lsEf0u0pu2.mp3",
+      "was_lufs": -14.6,
       "seconds": 331
     },
     {
       "id": "noir:lobo-loco--manhattan-skyline",
       "title": "Manhattan Skyline",
       "artist": "Lobo Loco",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/skoyTSNxiZycOq7hPM6J3x8ES6MrAiCwLk3HHDL8.mp3",
+      "was_lufs": -18.3,
       "seconds": 300
     },
     {
       "id": "noir:dee-yan-key--cheap-cafe",
       "title": "Cheap Cafe",
       "artist": "Dee Yan-Key",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Vacation_Days/Dee_Yan-Key_-_09_-_Cheap_Cafe.mp3",
+      "was_lufs": -18.7,
       "seconds": 208
     },
     {
       "id": "noir:dee-yan-key--reveller",
       "title": "reveller",
       "artist": "Dee Yan-Key",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ZdH8XNr1KX6NaBFh1nThJEl3ToSSy67o3ah30EV7.mp3",
+      "was_lufs": -15.2,
       "seconds": 367
     },
     {
       "id": "noir:lobo-loco--lovers-pont",
       "title": "Lovers Pont",
       "artist": "Lobo Loco",
-      "status": "kept",
-      "seconds": 297
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/2dGtltjlZtGmOvpNdZQCHxv7FlbuNw0KfoJc1Jps.mp3",
+      "was_lufs": -14.1,
+      "seconds": 296
     },
     {
       "id": "noir:lobo-loco--fused-in-love",
       "title": "Fused in Love",
       "artist": "Lobo Loco",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/eZwWciZsrgtjcRGlO8yEhOexUFH6VAGCgdNrvGhp.mp3",
+      "was_lufs": -14.1,
       "seconds": 331
     },
     {
       "id": "noir:crowander--how-you-are",
       "title": "How You are",
       "artist": "Crowander",
-      "status": "kept",
-      "seconds": 279
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/CBusy4OBaxb9RmFzSV9RO1KSmAAnUgfxBvff09e6.mp3",
+      "was_lufs": -13.1,
+      "seconds": 277
     },
     {
       "id": "noir:crowander--soulfull",
       "title": "Soulfull",
       "artist": "Crowander",
-      "status": "kept",
-      "seconds": 186
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/6GyIZOqEqdg82GBlMrZK40Saj6cMqJR3R0EylW60.mp3",
+      "was_lufs": -10.5,
+      "seconds": 182
     },
     {
       "id": "noir:martijn-de-boer-nigid--slow-ride-blues",
       "title": "Slow Ride Blues",
       "artist": "Martijn de Boer (NiGiD)",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Slow_Ride_Blues.mp3",
+      "was_lufs": -19.3,
       "seconds": 294
     },
     {
       "id": "noir:kevin-macleod--bass-walker",
       "title": "Bass Walker",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 162
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bass%20Walker.mp3",
+      "was_lufs": -12.0,
+      "seconds": 160
     },
     {
       "id": "noir:kevin-macleod--shades-of-spring",
       "title": "Shades of Spring",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 187
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Shades%20of%20Spring.mp3",
+      "was_lufs": -20.3,
+      "seconds": 184
     },
     {
       "id": "noir:kevin-macleod--mystery-sax",
       "title": "Mystery Sax",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 275
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Mystery%20Sax.mp3",
+      "was_lufs": -12.4,
+      "seconds": 271
     },
     {
       "id": "noir:kevin-macleod--dirt-rhodes",
       "title": "Dirt Rhodes",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 120
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dirt%20Rhodes.mp3",
+      "was_lufs": -15.1,
+      "seconds": 117
     },
     {
       "id": "noir:kevin-macleod--soporific",
       "title": "Soporific",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 290
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Soporific.mp3",
+      "was_lufs": -13.2,
+      "seconds": 286
     },
     {
       "id": "noir:kevin-macleod--comfortable-mystery",
       "title": "Comfortable Mystery",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 236
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Comfortable%20Mystery.mp3",
+      "was_lufs": -32.1,
+      "seconds": 235
     },
     {
       "id": "noir:kevin-macleod--man-down",
       "title": "Man Down",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 199
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Man%20Down.mp3",
+      "was_lufs": -13.5,
+      "seconds": 192
     },
     {
       "id": "noir:kevin-macleod--sunday-dub",
       "title": "Sunday Dub",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 210
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sunday%20Dub.mp3",
+      "was_lufs": -11.2,
+      "seconds": 207
     },
     {
       "id": "noir:kevin-macleod--in-your-arms",
       "title": "In Your Arms",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 169
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/In%20Your%20Arms.mp3",
+      "was_lufs": -13.6,
+      "seconds": 167
     },
     {
       "id": "noir:kevin-macleod--intractable",
       "title": "Intractable",
       "artist": "Kevin MacLeod",
-      "status": "kept",
-      "seconds": 268
+      "status": "mastered",
+      "from_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Intractable.mp3",
+      "was_lufs": -18.1,
+      "seconds": 266
     },
     {
       "id": "noir:the-new-mellow-edwards--large-detective",
       "title": "Large Detective",
       "artist": "The New Mellow Edwards",
-      "status": "kept",
-      "seconds": 136
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/The_New_Mellow_Edwards/Big_Choantza/The_New_Mellow_Edwards_-_05_-_Large_Detective.mp3",
+      "was_lufs": -12.2,
+      "seconds": 131
     },
     {
       "id": "noir:julian-winter--la",
       "title": "LA",
       "artist": "Julian Winter",
-      "status": "kept",
-      "seconds": 140
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/d96bi0otEjc6UejE4fCrPS1T0fEdNlsBXVzZn3Na.mp3",
+      "was_lufs": -17.5,
+      "seconds": 138
     },
     {
       "id": "noir:lobo-loco--night-city",
       "title": "Night City",
       "artist": "Lobo Loco",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/5V0gHAGL0CQAcQ6X61DEx6yqSdOBAEYbMZAt9ghZ.mp3",
+      "was_lufs": -21.3,
       "seconds": 165
     },
     {
       "id": "noir:lobo-loco--at-night-all-cats-are-grey",
       "title": "At Night All Cats are Grey",
       "artist": "Lobo Loco",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/PVy77yup60gY5614igTMznS0Iwxl14guIWK4dVzC.mp3",
+      "was_lufs": -10.9,
       "seconds": 240
     },
     {
       "id": "noir:lobo-loco--saw-you-last-night",
       "title": "Saw You Last Night",
       "artist": "Lobo Loco",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/7CRwpol3BBagwgebdIGHn78uYnr8c0E1BaOeV6BA.mp3",
+      "was_lufs": -11.1,
       "seconds": 297
     },
     {
       "id": "noir:lobo-loco--free-jazz-thriller",
       "title": "Free Jazz Thriller",
       "artist": "Lobo Loco",
-      "status": "kept",
-      "seconds": 193
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/q8tfJydIyEom7ErR2NSPcTENK4z5T6zT2S0NSRe0.mp3",
+      "was_lufs": -16.8,
+      "seconds": 192
     },
     {
       "id": "noir:lobo-loco--secret-secrets",
       "title": "Secret Secrets",
       "artist": "Lobo Loco",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/PBO5a1IE0MFVBkNHXJyFbaRFRHrKOsECCkdCCHcy.mp3",
+      "was_lufs": -17.3,
       "seconds": 186
     },
     {
       "id": "noir:domeneko--femme-fatale",
       "title": "Femme Fatale",
       "artist": "Domeneko",
-      "status": "kept",
-      "seconds": 118
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK020/Domeneko_-_03_-_Femme_Fatale.mp3",
+      "was_lufs": -16.2,
+      "seconds": 117
     },
     {
       "id": "noir:domeneko--the-drunk-trumpeter",
       "title": "The Drunk Trumpeter",
       "artist": "Domeneko",
-      "status": "kept",
-      "seconds": 149
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK020/Domeneko_-_02_-_The_Drunk_Trumpeter.mp3",
+      "was_lufs": -16.8,
+      "seconds": 147
     },
     {
       "id": "noir:domeneko--retrospective",
       "title": "Retrospective",
       "artist": "Domeneko",
-      "status": "kept",
-      "seconds": 128
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK020/Domeneko_-_04_-_Retrospective.mp3",
+      "was_lufs": -14.1,
+      "seconds": 127
     },
     {
       "id": "noir:domeneko--rain",
       "title": "Rain",
       "artist": "Domeneko",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK020/Domeneko_-_15_-_Rain.mp3",
+      "was_lufs": -16.5,
       "seconds": 215
     },
     {
       "id": "noir:domeneko--corrupt",
       "title": "Corrupt",
       "artist": "Domeneko",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK020/Domeneko_-_10_-_Corrupt.mp3",
+      "was_lufs": -15.9,
       "seconds": 125
     },
     {
       "id": "noir:domeneko--the-last-show",
       "title": "The Last Show",
       "artist": "Domeneko",
-      "status": "downloaded",
+      "status": "mastered",
       "from_url": "https://archive.org/download/DWK020/Domeneko_-_19_-_The_Last_Show.mp3",
-      "seconds": 132
+      "was_lufs": -15.1,
+      "seconds": 131
     },
     {
       "id": "noir:jenova-7--streetlight-noir",
       "title": "Streetlight Noir",
       "artist": "Jenova 7",
-      "status": "kept",
-      "seconds": 167
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK119/Jenova_7_-_03_-_Streetlight_Noir.mp3",
+      "was_lufs": -13.3,
+      "seconds": 166
     },
     {
       "id": "noir:jenova-7--alleyway-jazz",
       "title": "Alleyway Jazz",
       "artist": "Jenova 7",
-      "status": "kept",
-      "seconds": 246
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK119/Jenova_7_-_18_-_Alleyway_Jazz.mp3",
+      "was_lufs": -17.3,
+      "seconds": 245
     },
     {
       "id": "noir:jenova-7--absence-in-velvet",
       "title": "Absence In Velvet",
       "artist": "Jenova 7",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK119/Jenova_7_-_19_-_Absence_In_Velvet.mp3",
+      "was_lufs": -10.3,
       "seconds": 144
     },
     {
       "id": "noir:jenova-7--midnight-ride",
       "title": "Midnight Ride",
       "artist": "Jenova 7",
-      "status": "kept",
-      "seconds": 234
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK119/Jenova_7_-_07_-_Midnight_Ride.mp3",
+      "was_lufs": -12.1,
+      "seconds": 233
     },
     {
       "id": "noir:jenova-7--a-touch-of-evil",
       "title": "A Touch Of Evil",
       "artist": "Jenova 7",
-      "status": "kept",
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK107/Jenova_7_-_04_-_A_Touch_Of_Evil.mp3",
+      "was_lufs": -12.6,
       "seconds": 272
     },
     {
       "id": "noir:jenova-7--dark-water-jazz",
       "title": "Dark Water Jazz",
       "artist": "Jenova 7",
-      "status": "kept",
-      "seconds": 272
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK107/Jenova_7_-_01_-_Dark_Water_Jazz.mp3",
+      "was_lufs": -14.3,
+      "seconds": 271
     },
     {
       "id": "noir:sick-rat--street-corners",
       "title": "Street Corners",
       "artist": "Sick Rat",
-      "status": "kept",
-      "seconds": 156
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK364/Sick_Rat_-_09_-_Street_Corners.mp3",
+      "was_lufs": -10.4,
+      "seconds": 154
     },
     {
       "id": "noir:sick-rat--smokey-twilight",
       "title": "Smokey Twilight",
       "artist": "Sick Rat",
-      "status": "kept",
-      "seconds": 157
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK364/Sick_Rat_-_20_-_Smokey_Twilight.mp3",
+      "was_lufs": -8.7,
+      "seconds": 149
     },
     {
       "id": "noir:sick-rat--risky-affair",
       "title": "Risky Affair",
       "artist": "Sick Rat",
-      "status": "kept",
-      "seconds": 196
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK364/Sick_Rat_-_11_-_Risky_Affair.mp3",
+      "was_lufs": -9.0,
+      "seconds": 192
     },
     {
       "id": "noir:sick-rat--my-lonely-nights",
       "title": "My Lonely Nights",
       "artist": "Sick Rat",
-      "status": "kept",
-      "seconds": 201
+      "status": "mastered",
+      "from_url": "https://archive.org/download/DWK364/Sick_Rat_-_13_-_My_Lonely_Nights.mp3",
+      "was_lufs": -10.0,
+      "seconds": 196
     }
   ]
 }

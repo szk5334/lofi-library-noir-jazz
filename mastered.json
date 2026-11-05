@@ -1,0 +1,366 @@
+{
+ "audio/blue-dot-sessions--diner-gothic-bottomless.mp3": {
+  "v": 1,
+  "xfade": 8.3
+ },
+ "audio/blue-dot-sessions--diner-gothic-closing.mp3": {
+  "v": 1,
+  "xfade": 5.2
+ },
+ "audio/blue-dot-sessions--diner-gothic-intercept.mp3": {
+  "v": 1,
+  "xfade": 6.4
+ },
+ "audio/crowander--have-a-smoke.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/crowander--how-you-are.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/crowander--last-drink.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/crowander--neon-lights.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/crowander--soulfull.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/dee-yan-key--at-nightfall.mp3": {
+  "v": 1,
+  "xfade": 4.4
+ },
+ "audio/dee-yan-key--autumn-nightfall.mp3": {
+  "v": 1,
+  "xfade": 4.4
+ },
+ "audio/dee-yan-key--carousel.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/dee-yan-key--cheap-cafe.mp3": {
+  "v": 1,
+  "xfade": 6.7
+ },
+ "audio/dee-yan-key--fragile.mp3": {
+  "v": 1,
+  "xfade": 5.0
+ },
+ "audio/dee-yan-key--gloomy-sky.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/dee-yan-key--gone.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/dee-yan-key--hebetude.mp3": {
+  "v": 1,
+  "xfade": 4.8
+ },
+ "audio/dee-yan-key--loss.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/dee-yan-key--night-music.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/dee-yan-key--night-sky.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/dee-yan-key--nights.mp3": {
+  "v": 1,
+  "xfade": 4.7
+ },
+ "audio/dee-yan-key--rainy-streets.mp3": {
+  "v": 1,
+  "xfade": 4.1
+ },
+ "audio/dee-yan-key--retrospect.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/dee-yan-key--reveller.mp3": {
+  "v": 1,
+  "xfade": 7.1
+ },
+ "audio/dee-yan-key--winter.mp3": {
+  "v": 1,
+  "xfade": 5.4
+ },
+ "audio/domeneko--corrupt.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/domeneko--femme-fatale.mp3": {
+  "v": 1,
+  "xfade": 6.6
+ },
+ "audio/domeneko--rain.mp3": {
+  "v": 1,
+  "xfade": 5.7
+ },
+ "audio/domeneko--retrospective.mp3": {
+  "v": 1,
+  "xfade": 7.1
+ },
+ "audio/domeneko--the-drunk-trumpeter.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/domeneko--the-last-show.mp3": {
+  "v": 1,
+  "xfade": 6.0
+ },
+ "audio/jenova-7--a-touch-of-evil.mp3": {
+  "v": 1,
+  "xfade": 4.9
+ },
+ "audio/jenova-7--absence-in-velvet.mp3": {
+  "v": 1,
+  "xfade": 7.5
+ },
+ "audio/jenova-7--alleyway-jazz.mp3": {
+  "v": 1,
+  "xfade": 9.9
+ },
+ "audio/jenova-7--dark-water-jazz.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/jenova-7--midnight-ride.mp3": {
+  "v": 1,
+  "xfade": 8.4
+ },
+ "audio/jenova-7--streetlight-noir.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/julian-winter--la.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/ketsa--jazz-for-the-rain.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/ketsa--night-jazz.mp3": {
+  "v": 1,
+  "xfade": 4.8
+ },
+ "audio/kevin-macleod--acid-trumpet.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--as-i-figure.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--backed-vibes-clean.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--bass-walker.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--comfortable-mystery.mp3": {
+  "v": 1,
+  "xfade": 5.1
+ },
+ "audio/kevin-macleod--cool-vibes.mp3": {
+  "v": 1,
+  "xfade": 4.6
+ },
+ "audio/kevin-macleod--covert-affair.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--deadly-roulette.mp3": {
+  "v": 1,
+  "xfade": 6.2
+ },
+ "audio/kevin-macleod--dirt-rhodes.mp3": {
+  "v": 1,
+  "xfade": 8.2
+ },
+ "audio/kevin-macleod--hard-boiled.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--i-knew-a-guy.mp3": {
+  "v": 1,
+  "xfade": 4.5
+ },
+ "audio/kevin-macleod--in-your-arms.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--intractable.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--just-as-soon.mp3": {
+  "v": 1,
+  "xfade": 5.0
+ },
+ "audio/kevin-macleod--kool-kats.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--man-down.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--mystery-sax.mp3": {
+  "v": 1,
+  "xfade": 5.2
+ },
+ "audio/kevin-macleod--night-in-venice.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--night-on-the-docks-piano.mp3": {
+  "v": 1,
+  "xfade": 4.7
+ },
+ "audio/kevin-macleod--night-on-the-docks-sax.mp3": {
+  "v": 1,
+  "xfade": 5.2
+ },
+ "audio/kevin-macleod--night-on-the-docks-trumpet.mp3": {
+  "v": 1,
+  "xfade": 5.1
+ },
+ "audio/kevin-macleod--on-the-cool-side.mp3": {
+  "v": 1,
+  "xfade": 4.8
+ },
+ "audio/kevin-macleod--on-the-ground.mp3": {
+  "v": 1,
+  "xfade": 5.5
+ },
+ "audio/kevin-macleod--shades-of-spring.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--soporific.mp3": {
+  "v": 1,
+  "xfade": 8.6
+ },
+ "audio/kevin-macleod--spy-glass.mp3": {
+  "v": 1,
+  "xfade": 7.0
+ },
+ "audio/kevin-macleod--sunday-dub.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/kevin-macleod--walking-along.mp3": {
+  "v": 1,
+  "xfade": 4.7
+ },
+ "audio/lobo-loco--at-night-all-cats-are-grey.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/lobo-loco--free-jazz-thriller.mp3": {
+  "v": 1,
+  "xfade": 5.0
+ },
+ "audio/lobo-loco--fused-in-love.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/lobo-loco--in-my-heart.mp3": {
+  "v": 1,
+  "xfade": 4.3
+ },
+ "audio/lobo-loco--little-caesar-bandello.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/lobo-loco--lovers-pont.mp3": {
+  "v": 1,
+  "xfade": 7.6
+ },
+ "audio/lobo-loco--manhattan-skyline.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/lobo-loco--night-city.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/lobo-loco--saw-you-last-night.mp3": {
+  "v": 1,
+  "xfade": 5.3
+ },
+ "audio/lobo-loco--secret-secrets.mp3": {
+  "v": 1,
+  "xfade": 5.6
+ },
+ "audio/martijn-de-boer-nigid--absent-enemies.mp3": {
+  "v": 1,
+  "xfade": 9.3
+ },
+ "audio/martijn-de-boer-nigid--departures-duet-for-piano-and-bass.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/martijn-de-boer-nigid--slow-ride-blues.mp3": {
+  "v": 1,
+  "xfade": 4.9
+ },
+ "audio/ruskerdax--moil.mp3": {
+  "v": 1,
+  "xfade": 4.4
+ },
+ "audio/shane-ivers--dark-flashes.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/shane-ivers--opening-move.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/shane-ivers--signs-to-nowhere.mp3": {
+  "v": 1,
+  "xfade": 5.2
+ },
+ "audio/shane-ivers--streetlight-serenade.mp3": {
+  "v": 1,
+  "xfade": 6.5
+ },
+ "audio/shane-ivers--what-s-the-angle.mp3": {
+  "v": 1,
+  "xfade": 6.8
+ },
+ "audio/sick-rat--my-lonely-nights.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/sick-rat--risky-affair.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/sick-rat--smokey-twilight.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ },
+ "audio/sick-rat--street-corners.mp3": {
+  "v": 1,
+  "xfade": 4.0
+ },
+ "audio/the-new-mellow-edwards--large-detective.mp3": {
+  "v": 1,
+  "xfade": 10.0
+ }
+}

@@ -11,7 +11,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://www.silvermansound.com/free-music/signs-to-nowhere",
-      "seconds": 211
+      "seconds": 209,
+      "xfade": 5.2
     },
     {
       "id": "noir:shane-ivers--streetlight-serenade",
@@ -23,7 +24,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://www.silvermansound.com/free-music/streetlight-serenade",
-      "seconds": 174
+      "seconds": 174,
+      "xfade": 6.5
     },
     {
       "id": "noir:shane-ivers--dark-flashes",
@@ -35,7 +37,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://www.silvermansound.com/free-music/dark-flashes",
-      "seconds": 217
+      "seconds": 217,
+      "xfade": 4.0
     },
     {
       "id": "noir:shane-ivers--opening-move",
@@ -47,7 +50,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://www.silvermansound.com/free-music/opening-move",
-      "seconds": 148
+      "seconds": 141,
+      "xfade": 4.0
     },
     {
       "id": "noir:shane-ivers--what-s-the-angle",
@@ -59,7 +63,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://www.silvermansound.com/free-music/whats-the-angle",
-      "seconds": 160
+      "seconds": 159,
+      "xfade": 6.8
     },
     {
       "id": "noir:kevin-macleod--night-on-the-docks-sax",
@@ -71,7 +76,8 @@
       "license_url": "https://creativecommons.org/licenses/by/3.0/",
       "youtube_ok": true,
       "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Night_on_the_Docks_-_Sax/",
-      "seconds": 174
+      "seconds": 171,
+      "xfade": 5.2
     },
     {
       "id": "noir:kevin-macleod--i-knew-a-guy",
@@ -83,7 +89,8 @@
       "license_url": "https://creativecommons.org/licenses/by/3.0/",
       "youtube_ok": true,
       "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/I_Knew_a_Guy/",
-      "seconds": 167
+      "seconds": 161,
+      "xfade": 4.5
     },
     {
       "id": "noir:kevin-macleod--backed-vibes-clean",
@@ -95,7 +102,8 @@
       "license_url": "https://creativecommons.org/licenses/by/3.0/",
       "youtube_ok": true,
       "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Backed_Vibes_Clean_1973/",
-      "seconds": 228
+      "seconds": 224,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--as-i-figure",
@@ -107,7 +115,8 @@
       "license_url": "https://creativecommons.org/licenses/by/3.0/",
       "youtube_ok": true,
       "page": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/As_I_Figure/",
-      "seconds": 217
+      "seconds": 212,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--night-on-the-docks-piano",
@@ -119,7 +128,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 174
+      "seconds": 171,
+      "xfade": 4.7
     },
     {
       "id": "noir:kevin-macleod--night-on-the-docks-trumpet",
@@ -131,7 +141,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 174
+      "seconds": 172,
+      "xfade": 5.1
     },
     {
       "id": "noir:kevin-macleod--hard-boiled",
@@ -143,7 +154,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 181
+      "seconds": 177,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--deadly-roulette",
@@ -155,7 +167,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 159
+      "seconds": 153,
+      "xfade": 6.2
     },
     {
       "id": "noir:kevin-macleod--just-as-soon",
@@ -167,7 +180,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 228
+      "seconds": 215,
+      "xfade": 5.0
     },
     {
       "id": "noir:kevin-macleod--walking-along",
@@ -179,7 +193,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 144
+      "seconds": 137,
+      "xfade": 4.7
     },
     {
       "id": "noir:kevin-macleod--spy-glass",
@@ -191,7 +206,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 227
+      "seconds": 224,
+      "xfade": 7.0
     },
     {
       "id": "noir:kevin-macleod--on-the-ground",
@@ -203,7 +219,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 159
+      "seconds": 158,
+      "xfade": 5.5
     },
     {
       "id": "noir:kevin-macleod--cool-vibes",
@@ -215,7 +232,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 218
+      "seconds": 212,
+      "xfade": 4.6
     },
     {
       "id": "noir:kevin-macleod--night-in-venice",
@@ -227,7 +245,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 218
+      "seconds": 216,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--covert-affair",
@@ -239,7 +258,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 194
+      "seconds": 192,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--kool-kats",
@@ -251,7 +271,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 201
+      "seconds": 197,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--acid-trumpet",
@@ -263,7 +284,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 208
+      "seconds": 208,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--on-the-cool-side",
@@ -275,7 +297,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 102
+      "seconds": 102,
+      "xfade": 4.8
     },
     {
       "id": "noir:dee-yan-key--gone",
@@ -287,7 +310,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/gone/",
-      "seconds": 221
+      "seconds": 220,
+      "xfade": 4.0
     },
     {
       "id": "noir:dee-yan-key--winter",
@@ -299,7 +323,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/winter/",
-      "seconds": 405
+      "seconds": 405,
+      "xfade": 5.4
     },
     {
       "id": "noir:dee-yan-key--carousel",
@@ -311,7 +336,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/blue-tales/carousel-1/",
-      "seconds": 350
+      "seconds": 347,
+      "xfade": 4.0
     },
     {
       "id": "noir:blue-dot-sessions--diner-gothic-bottomless",
@@ -323,7 +349,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Bottomless/",
-      "seconds": 193
+      "seconds": 190,
+      "xfade": 8.3
     },
     {
       "id": "noir:blue-dot-sessions--diner-gothic-intercept",
@@ -335,7 +362,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Intercept/",
-      "seconds": 192
+      "seconds": 189,
+      "xfade": 6.4
     },
     {
       "id": "noir:blue-dot-sessions--diner-gothic-closing",
@@ -347,7 +375,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Blue_Dot_Sessions/Diner_Gothic/Diner_Gothic_-_Closing/",
-      "seconds": 121
+      "seconds": 120,
+      "xfade": 5.2
     },
     {
       "id": "noir:crowander--have-a-smoke",
@@ -359,7 +388,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/have-a-smoke/",
-      "seconds": 263
+      "seconds": 258,
+      "xfade": 10.0
     },
     {
       "id": "noir:crowander--last-drink",
@@ -371,7 +401,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/last-drink/",
-      "seconds": 298
+      "seconds": 296,
+      "xfade": 10.0
     },
     {
       "id": "noir:crowander--neon-lights",
@@ -383,7 +414,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/crowander/night-walk-urbanlo-fihip-hop/neon-lights/",
-      "seconds": 272
+      "seconds": 270,
+      "xfade": 4.0
     },
     {
       "id": "noir:ketsa--night-jazz",
@@ -395,7 +427,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-jazz/",
-      "seconds": 217
+      "seconds": 216,
+      "xfade": 4.8
     },
     {
       "id": "noir:ketsa--jazz-for-the-rain",
@@ -407,7 +440,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/jazz-for-the-rain/",
-      "seconds": 204
+      "seconds": 202,
+      "xfade": 4.0
     },
     {
       "id": "noir:ruskerdax--moil",
@@ -419,7 +453,8 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "youtube_ok": true,
       "page": "https://opengameart.org/content/moil",
-      "seconds": 185
+      "seconds": 179,
+      "xfade": 4.4
     },
     {
       "id": "noir:dee-yan-key--rainy-streets",
@@ -431,7 +466,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/attitude/rainy-streets/",
-      "seconds": 229
+      "seconds": 229,
+      "xfade": 4.1
     },
     {
       "id": "noir:dee-yan-key--autumn-nightfall",
@@ -443,7 +479,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/attitude/autumn-nightfall/",
-      "seconds": 302
+      "seconds": 300,
+      "xfade": 4.4
     },
     {
       "id": "noir:dee-yan-key--at-nightfall",
@@ -455,7 +492,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/2018050740818985/04--Dee_Yan-Key-At_Nightfall/",
-      "seconds": 235
+      "seconds": 233,
+      "xfade": 4.4
     },
     {
       "id": "noir:dee-yan-key--night-music",
@@ -467,7 +505,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/night-music/",
-      "seconds": 276
+      "seconds": 271,
+      "xfade": 4.0
     },
     {
       "id": "noir:dee-yan-key--gloomy-sky",
@@ -479,7 +518,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/gloomy-sky/",
-      "seconds": 318
+      "seconds": 316,
+      "xfade": 4.0
     },
     {
       "id": "noir:dee-yan-key--loss",
@@ -491,7 +531,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/01--Dee_Yan-Key-Loss/",
-      "seconds": 230
+      "seconds": 226,
+      "xfade": 4.0
     },
     {
       "id": "noir:dee-yan-key--fragile",
@@ -503,7 +544,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/06--Dee_Yan-Key-Fragile/",
-      "seconds": 281
+      "seconds": 281,
+      "xfade": 5.0
     },
     {
       "id": "noir:dee-yan-key--nights",
@@ -515,7 +557,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Vacation_Days/06-Dee_Yan-Key-Nights/",
-      "seconds": 227
+      "seconds": 227,
+      "xfade": 4.7
     },
     {
       "id": "noir:martijn-de-boer-nigid--departures-duet-for-piano-and-bass",
@@ -527,7 +570,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://ccmixter.org/files/NiGiD/67282",
-      "seconds": 293
+      "seconds": 292,
+      "xfade": 10.0
     },
     {
       "id": "noir:dee-yan-key--retrospect",
@@ -539,7 +583,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/02--Dee_Yan-Key-Retrospect/",
-      "seconds": 444
+      "seconds": 440,
+      "xfade": 4.0
     },
     {
       "id": "noir:dee-yan-key--night-sky",
@@ -551,7 +596,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/night-sky/",
-      "seconds": 124
+      "seconds": 120,
+      "xfade": 4.0
     },
     {
       "id": "noir:lobo-loco--little-caesar-bandello",
@@ -563,7 +609,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/my-favorite-jazz-lounge-compilation-remastered/little-caesar-bandello-id-576-remastered/",
-      "seconds": 196
+      "seconds": 196,
+      "xfade": 4.0
     },
     {
       "id": "noir:dee-yan-key--hebetude",
@@ -575,7 +622,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Crises/04--Dee_Yan-Key-Hebetude/",
-      "seconds": 210
+      "seconds": 210,
+      "xfade": 4.8
     },
     {
       "id": "noir:martijn-de-boer-nigid--absent-enemies",
@@ -587,7 +635,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
       "youtube_ok": false,
       "page": "https://ccmixter.org/files/NiGiD/65892",
-      "seconds": 490
+      "seconds": 488,
+      "xfade": 9.3
     },
     {
       "id": "noir:lobo-loco--in-my-heart",
@@ -599,7 +648,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/in-my-heart-id-2193/",
-      "seconds": 331
+      "seconds": 331,
+      "xfade": 4.3
     },
     {
       "id": "noir:lobo-loco--manhattan-skyline",
@@ -611,7 +661,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/my-favorite-jazz-lounge-compilation-remastered/manhattan-skyline-id-761-remastered/",
-      "seconds": 300
+      "seconds": 300,
+      "xfade": 4.0
     },
     {
       "id": "noir:dee-yan-key--cheap-cafe",
@@ -623,7 +674,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/Vacation_Days/09-Dee_Yan-Key-Cheap_Cafe/",
-      "seconds": 208
+      "seconds": 208,
+      "xfade": 6.7
     },
     {
       "id": "noir:dee-yan-key--reveller",
@@ -635,7 +687,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Dee_Yan-Key/little-night-thoughts/reveller/",
-      "seconds": 367
+      "seconds": 367,
+      "xfade": 7.1
     },
     {
       "id": "noir:lobo-loco--lovers-pont",
@@ -647,7 +700,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/lovers-pont-id-2219/",
-      "seconds": 297
+      "seconds": 296,
+      "xfade": 7.6
     },
     {
       "id": "noir:lobo-loco--fused-in-love",
@@ -659,7 +713,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/umbrella-lounge/fused-in-love-id-2192/",
-      "seconds": 331
+      "seconds": 331,
+      "xfade": 4.0
     },
     {
       "id": "noir:crowander--how-you-are",
@@ -671,7 +726,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/crowander/circles/how-you-are/",
-      "seconds": 279
+      "seconds": 277,
+      "xfade": 10.0
     },
     {
       "id": "noir:crowander--soulfull",
@@ -683,7 +739,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/crowander/circles/soulfull/",
-      "seconds": 186
+      "seconds": 182,
+      "xfade": 10.0
     },
     {
       "id": "noir:martijn-de-boer-nigid--slow-ride-blues",
@@ -695,7 +752,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "youtube_ok": false,
       "page": "https://ccmixter.org/files/NiGiD/70786",
-      "seconds": 294
+      "seconds": 294,
+      "xfade": 4.9
     },
     {
       "id": "noir:kevin-macleod--bass-walker",
@@ -707,7 +765,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 162
+      "seconds": 160,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--shades-of-spring",
@@ -719,7 +778,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 187
+      "seconds": 184,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--mystery-sax",
@@ -731,7 +791,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 275
+      "seconds": 271,
+      "xfade": 5.2
     },
     {
       "id": "noir:kevin-macleod--dirt-rhodes",
@@ -743,7 +804,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 120
+      "seconds": 117,
+      "xfade": 8.2
     },
     {
       "id": "noir:kevin-macleod--soporific",
@@ -755,7 +817,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 290
+      "seconds": 286,
+      "xfade": 8.6
     },
     {
       "id": "noir:kevin-macleod--comfortable-mystery",
@@ -767,7 +830,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 236
+      "seconds": 235,
+      "xfade": 5.1
     },
     {
       "id": "noir:kevin-macleod--man-down",
@@ -779,7 +843,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 199
+      "seconds": 192,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--sunday-dub",
@@ -791,7 +856,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 210
+      "seconds": 207,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--in-your-arms",
@@ -803,7 +869,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 169
+      "seconds": 167,
+      "xfade": 4.0
     },
     {
       "id": "noir:kevin-macleod--intractable",
@@ -815,7 +882,8 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "youtube_ok": true,
       "page": "https://incompetech.com/music/royalty-free/music.html",
-      "seconds": 268
+      "seconds": 266,
+      "xfade": 4.0
     },
     {
       "id": "noir:the-new-mellow-edwards--large-detective",
@@ -827,7 +895,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/The_New_Mellow_Edwards/Big_Choantza_1739/Large_Detectivemp3_1320/",
-      "seconds": 136
+      "seconds": 131,
+      "xfade": 10.0
     },
     {
       "id": "noir:julian-winter--la",
@@ -839,7 +908,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Julian_Winter/film-noir/la/",
-      "seconds": 140
+      "seconds": 138,
+      "xfade": 10.0
     },
     {
       "id": "noir:lobo-loco--night-city",
@@ -851,7 +921,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/out-from-the-dark/night-city-id-1635/",
-      "seconds": 165
+      "seconds": 165,
+      "xfade": 4.0
     },
     {
       "id": "noir:lobo-loco--at-night-all-cats-are-grey",
@@ -863,7 +934,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/summer-sailing-ammersee/at-night-all-cats-are-grey-id-1957/",
-      "seconds": 240
+      "seconds": 240,
+      "xfade": 4.0
     },
     {
       "id": "noir:lobo-loco--saw-you-last-night",
@@ -875,7 +947,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/summer-sailing-ammersee/saw-you-last-night-id-1965/",
-      "seconds": 297
+      "seconds": 297,
+      "xfade": 5.3
     },
     {
       "id": "noir:lobo-loco--free-jazz-thriller",
@@ -887,7 +960,8 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "youtube_ok": true,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/completly-free/free-jazz-thriller-f-018/",
-      "seconds": 193
+      "seconds": 192,
+      "xfade": 5.0
     },
     {
       "id": "noir:lobo-loco--secret-secrets",
@@ -899,7 +973,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "youtube_ok": false,
       "page": "https://freemusicarchive.org/music/Lobo_Loco/youre-welcome/secret-secrets-id-1723/",
-      "seconds": 186
+      "seconds": 186,
+      "xfade": 5.6
     },
     {
       "id": "noir:domeneko--femme-fatale",
@@ -911,7 +986,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK020",
-      "seconds": 118
+      "seconds": 117,
+      "xfade": 6.6
     },
     {
       "id": "noir:domeneko--the-drunk-trumpeter",
@@ -923,7 +999,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK020",
-      "seconds": 149
+      "seconds": 147,
+      "xfade": 4.0
     },
     {
       "id": "noir:domeneko--retrospective",
@@ -935,7 +1012,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK020",
-      "seconds": 128
+      "seconds": 127,
+      "xfade": 7.1
     },
     {
       "id": "noir:domeneko--rain",
@@ -947,7 +1025,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK020",
-      "seconds": 215
+      "seconds": 215,
+      "xfade": 5.7
     },
     {
       "id": "noir:domeneko--corrupt",
@@ -959,7 +1038,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK020",
-      "seconds": 125
+      "seconds": 125,
+      "xfade": 4.0
     },
     {
       "id": "noir:domeneko--the-last-show",
@@ -971,7 +1051,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK020",
-      "seconds": 132
+      "seconds": 131,
+      "xfade": 6.0
     },
     {
       "id": "noir:jenova-7--streetlight-noir",
@@ -983,7 +1064,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK119",
-      "seconds": 167
+      "seconds": 166,
+      "xfade": 10.0
     },
     {
       "id": "noir:jenova-7--alleyway-jazz",
@@ -995,7 +1077,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK119",
-      "seconds": 246
+      "seconds": 245,
+      "xfade": 9.9
     },
     {
       "id": "noir:jenova-7--absence-in-velvet",
@@ -1007,7 +1090,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK119",
-      "seconds": 144
+      "seconds": 144,
+      "xfade": 7.5
     },
     {
       "id": "noir:jenova-7--midnight-ride",
@@ -1019,7 +1103,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK119",
-      "seconds": 234
+      "seconds": 233,
+      "xfade": 8.4
     },
     {
       "id": "noir:jenova-7--a-touch-of-evil",
@@ -1031,7 +1116,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK107",
-      "seconds": 272
+      "seconds": 272,
+      "xfade": 4.9
     },
     {
       "id": "noir:jenova-7--dark-water-jazz",
@@ -1043,7 +1129,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK107",
-      "seconds": 272
+      "seconds": 271,
+      "xfade": 10.0
     },
     {
       "id": "noir:sick-rat--street-corners",
@@ -1055,7 +1142,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK364",
-      "seconds": 156
+      "seconds": 154,
+      "xfade": 4.0
     },
     {
       "id": "noir:sick-rat--smokey-twilight",
@@ -1067,7 +1155,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK364",
-      "seconds": 157
+      "seconds": 149,
+      "xfade": 10.0
     },
     {
       "id": "noir:sick-rat--risky-affair",
@@ -1079,7 +1168,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK364",
-      "seconds": 196
+      "seconds": 192,
+      "xfade": 10.0
     },
     {
       "id": "noir:sick-rat--my-lonely-nights",
@@ -1091,7 +1181,8 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "youtube_ok": false,
       "page": "https://archive.org/details/DWK364",
-      "seconds": 201
+      "seconds": 196,
+      "xfade": 10.0
     }
   ]
 }
