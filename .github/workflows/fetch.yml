@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  actions: write          # lets a long rebuild start its own next run
 
 concurrency:
   group: build-library
@@ -17,14 +18,16 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
 
       - name: Install ffmpeg
         run: command -v ffmpeg >/dev/null || (sudo apt-get update && sudo apt-get install -y ffmpeg)
 
-      - name: Download, convert, credit
+      - name: Download, finish (trim, EQ, loudness), credit
+        env:
+          BUDGET_MIN: "150"
         run: python3 scripts/fetch.py
 
       - name: Commit results
@@ -33,6 +36,13 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
-          MSG=$(python3 -c "import json; s=json.load(open('fetch-report.json'))['summary']; print('Library update: %d/%d tracks, %s MB' % (s['in_library'], s['listed'], s['audio_mb']))")
+          MSG=$(python3 -c "import json; s=json.load(open('fetch-report.json'))['summary']; print('Library update: %d/%d tracks, %d finished, %s MB' % (s['in_library'], s['listed'], s['finished'], s['audio_mb']))")
           git commit -m "$MSG"
           git push
+
+      - name: Carry on if the time budget ran out
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          LEFT=$(python3 -c "import json; print(json.load(open('fetch-report.json'))['summary']['pending'])")
+          if [ "$LEFT" -gt 0 ]; then echo "$LEFT tracks left, starting another run"; gh workflow run fetch.yml --ref main; fi
